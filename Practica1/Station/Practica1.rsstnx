@@ -3918,12 +3918,12 @@
       <ComponentType Value="Mechanism" />
       <ClipPlane ID="-1" />
       <JointValues>
-        <Double Value="0" />
-        <Double Value="1.72952994148545E-08" />
-        <Double Value="2.65918131958642E-08" />
-        <Double Value="0" />
-        <Double Value="0.523598670959473" />
-        <Double Value="2.98023223876953E-08" />
+        <Double Value="1.01547956466675" />
+        <Double Value="0.716965436935425" />
+        <Double Value="0.307275623083115" />
+        <Double Value="-3.47915816307068" />
+        <Double Value="0.454845935106277" />
+        <Double Value="3.14176321029663" />
       </JointValues>
       <CalibFrames />
       <CalibFrameKnownValid />
@@ -4143,10 +4143,10 @@
         <ObjectRef ID="2371" />
       </ChildInstances>
       <Transform>
-        <RowX X="-0.499999947387474" Y="2.98023216516956E-08" Z="-0.866025434160292" W="0" />
-        <RowY X="1.49011592578724E-08" Y="1" Z="2.58095685473944E-08" W="0" />
+        <RowX X="-0.499999947387474" Y="2.98023216517751E-08" Z="-0.866025434160292" W="0" />
+        <RowY X="1.49011592579121E-08" Y="1" Z="2.58095685474632E-08" W="0" />
         <RowZ X="0.866025434160292" Y="0" Z="-0.499999947387474" W="0" />
-        <RowT X="0.506291659446725" Y="0" Z="0.679499986742712" W="1" />
+        <RowT X="0.506291659446725" Y="0" Z="0.679499986742711" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4244,7 +4244,7 @@
         </Attribute>
       </Attributes>
       <UniqueId Value="{aabd423d-61e6-41c4-ade9-74da6123a8c2}" />
-      <SystemIdentity Value="{A40CFE72-4315-4A05-A6A0-2F48B4C7C94F}" />
+      <SystemIdentity Value="{27A431A9-ABDF-4D6E-A683-A0A58B3B0D24}" />
       <RAPIDData ID="2377" />
       <MechanicalUnits>
         <ObjectRef ID="3445" />
@@ -4307,28 +4307,14 @@
         <ObjectRef ID="4142" />
         <ObjectRef ID="4144" />
         <ObjectRef ID="4640" />
-        <ObjectRef ID="4643" />
-        <ObjectRef ID="4646" />
-        <ObjectRef ID="4649" />
         <ObjectRef ID="4652" />
-        <ObjectRef ID="4655" />
-        <ObjectRef ID="4658" />
         <ObjectRef ID="4661" />
-        <ObjectRef ID="4664" />
-        <ObjectRef ID="4667" />
         <ObjectRef ID="4670" />
         <ObjectRef ID="4673" />
-        <ObjectRef ID="4676" />
-        <ObjectRef ID="4679" />
         <ObjectRef ID="4682" />
         <ObjectRef ID="4685" />
-        <ObjectRef ID="4688" />
-        <ObjectRef ID="4691" />
         <ObjectRef ID="4694" />
-        <ObjectRef ID="4697" />
-        <ObjectRef ID="4700" />
         <ObjectRef ID="4703" />
-        <ObjectRef ID="4706" />
         <ObjectRef ID="4709" />
         <ObjectRef ID="4712" />
         <ObjectRef ID="4715" />
@@ -4341,9 +4327,6 @@
         <ObjectRef ID="4750" />
         <ObjectRef ID="4901" />
         <ObjectRef ID="4904" />
-        <ObjectRef ID="4907" />
-        <ObjectRef ID="4910" />
-        <ObjectRef ID="4913" />
         <ObjectRef ID="4916" />
         <ObjectRef ID="4919" />
         <ObjectRef ID="4922" />
@@ -4352,39 +4335,32 @@
         <ObjectRef ID="4936" />
         <ObjectRef ID="4940" />
         <ObjectRef ID="5076" />
-        <ObjectRef ID="5079" />
-        <ObjectRef ID="5082" />
-        <ObjectRef ID="5085" />
-        <ObjectRef ID="5088" />
         <ObjectRef ID="5091" />
         <ObjectRef ID="5094" />
         <ObjectRef ID="5099" />
         <ObjectRef ID="5102" />
+        <ObjectRef ID="5161" />
+        <ObjectRef ID="5164" />
+        <ObjectRef ID="5231" />
+        <ObjectRef ID="5234" />
+        <ObjectRef ID="5237" />
+        <ObjectRef ID="5336" />
+        <ObjectRef ID="5339" />
+        <ObjectRef ID="5342" />
+        <ObjectRef ID="5345" />
+        <ObjectRef ID="5348" />
+        <ObjectRef ID="5351" />
       </Declarations>
       <Targets>
         <ObjectRef ID="4642" />
-        <ObjectRef ID="4645" />
-        <ObjectRef ID="4648" />
-        <ObjectRef ID="4651" />
         <ObjectRef ID="4654" />
-        <ObjectRef ID="4657" />
-        <ObjectRef ID="4660" />
         <ObjectRef ID="4663" />
-        <ObjectRef ID="4666" />
-        <ObjectRef ID="4669" />
         <ObjectRef ID="4672" />
         <ObjectRef ID="4675" />
-        <ObjectRef ID="4678" />
-        <ObjectRef ID="4681" />
         <ObjectRef ID="4684" />
         <ObjectRef ID="4687" />
-        <ObjectRef ID="4690" />
-        <ObjectRef ID="4693" />
         <ObjectRef ID="4696" />
-        <ObjectRef ID="4699" />
-        <ObjectRef ID="4702" />
         <ObjectRef ID="4705" />
-        <ObjectRef ID="4708" />
         <ObjectRef ID="4711" />
         <ObjectRef ID="4714" />
         <ObjectRef ID="4717" />
@@ -4396,21 +4372,25 @@
         <ObjectRef ID="4735" />
         <ObjectRef ID="4903" />
         <ObjectRef ID="4906" />
-        <ObjectRef ID="4909" />
-        <ObjectRef ID="4912" />
-        <ObjectRef ID="4915" />
         <ObjectRef ID="4918" />
         <ObjectRef ID="4921" />
         <ObjectRef ID="4924" />
         <ObjectRef ID="4927" />
         <ObjectRef ID="5078" />
-        <ObjectRef ID="5081" />
-        <ObjectRef ID="5084" />
-        <ObjectRef ID="5087" />
-        <ObjectRef ID="5090" />
         <ObjectRef ID="5093" />
         <ObjectRef ID="5096" />
         <ObjectRef ID="5101" />
+        <ObjectRef ID="5163" />
+        <ObjectRef ID="5166" />
+        <ObjectRef ID="5233" />
+        <ObjectRef ID="5236" />
+        <ObjectRef ID="5239" />
+        <ObjectRef ID="5338" />
+        <ObjectRef ID="5341" />
+        <ObjectRef ID="5344" />
+        <ObjectRef ID="5347" />
+        <ObjectRef ID="5350" />
+        <ObjectRef ID="5353" />
       </Targets>
       <DefinedRoutineDeclarations>
         <ObjectRef ID="2383" />
@@ -4463,7 +4443,7 @@
       </DefinedMoveInstructionGroups>
       <ActiveWObj ID="4142" />
       <ActiveTool ID="3443" />
-      <ActivePath ID="5102" />
+      <ActivePath ID="4144" />
       <ActiveProcess ID="3152" />
       <Frame>
         <RowX X="1" Y="0" Z="0" W="0" />
@@ -7918,30 +7898,16 @@
         <ObjectRef ID="4611" />
         <ObjectRef ID="4626" />
         <ObjectRef ID="4146" />
-        <ObjectRef ID="4161" />
-        <ObjectRef ID="4176" />
-        <ObjectRef ID="4191" />
-        <ObjectRef ID="4206" />
-        <ObjectRef ID="4221" />
-        <ObjectRef ID="4236" />
-        <ObjectRef ID="4251" />
-        <ObjectRef ID="4266" />
-        <ObjectRef ID="4281" />
-        <ObjectRef ID="4296" />
-        <ObjectRef ID="4311" />
-        <ObjectRef ID="4326" />
-        <ObjectRef ID="4341" />
-        <ObjectRef ID="4356" />
-        <ObjectRef ID="4371" />
-        <ObjectRef ID="4386" />
-        <ObjectRef ID="4401" />
-        <ObjectRef ID="4416" />
-        <ObjectRef ID="4431" />
-        <ObjectRef ID="4446" />
+        <ObjectRef ID="5167" />
+        <ObjectRef ID="5183" />
+        <ObjectRef ID="5240" />
+        <ObjectRef ID="5256" />
+        <ObjectRef ID="5272" />
+        <ObjectRef ID="5288" />
+        <ObjectRef ID="5304" />
+        <ObjectRef ID="5320" />
         <ObjectRef ID="4461" />
-        <ObjectRef ID="4476" />
-        <ObjectRef ID="4491" />
-        <ObjectRef ID="4506" />
+        <ObjectRef ID="5199" />
         <ObjectRef ID="4521" />
         <ObjectRef ID="4536" />
         <ObjectRef ID="4551" />
@@ -7990,726 +7956,6 @@
     <RoutineArgument ID="4158" Name="WObj" Parent="4147" Value="Workobject_1" />
     <RoutineArgument ID="4159" Name="Corr" Parent="4147" Enabled="false" />
     <RoutineArgument ID="4160" Name="TLoad" Parent="4147" Enabled="false" />
-    <MoveInstructionCall ID="4161" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4162" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4162" Name="" Parent="4161">
-      <RoutineArguments>
-        <ObjectRef ID="4163" />
-        <ObjectRef ID="4164" />
-        <ObjectRef ID="4165" />
-        <ObjectRef ID="4166" />
-        <ObjectRef ID="4167" />
-        <ObjectRef ID="4168" />
-        <ObjectRef ID="4169" />
-        <ObjectRef ID="4170" />
-        <ObjectRef ID="4171" />
-        <ObjectRef ID="4172" />
-        <ObjectRef ID="4173" />
-        <ObjectRef ID="4174" />
-        <ObjectRef ID="4175" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4163" Name="Conc" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4164" Name="ToPoint" Parent="4162" Value="Target_20" />
-    <RoutineArgument ID="4165" Name="ID" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4166" Name="Speed" Parent="4162" Value="v200" />
-    <RoutineArgument ID="4167" Name="V" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4168" Name="T" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4169" Name="Zone" Parent="4162" Value="z5" />
-    <RoutineArgument ID="4170" Name="Z" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4171" Name="Inpos" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4172" Name="Tool" Parent="4162" Value="THerramienta" />
-    <RoutineArgument ID="4173" Name="WObj" Parent="4162" Value="Workobject_1" />
-    <RoutineArgument ID="4174" Name="Corr" Parent="4162" Enabled="false" />
-    <RoutineArgument ID="4175" Name="TLoad" Parent="4162" Enabled="false" />
-    <MoveInstructionCall ID="4176" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4177" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4177" Name="" Parent="4176">
-      <RoutineArguments>
-        <ObjectRef ID="4178" />
-        <ObjectRef ID="4179" />
-        <ObjectRef ID="4180" />
-        <ObjectRef ID="4181" />
-        <ObjectRef ID="4182" />
-        <ObjectRef ID="4183" />
-        <ObjectRef ID="4184" />
-        <ObjectRef ID="4185" />
-        <ObjectRef ID="4186" />
-        <ObjectRef ID="4187" />
-        <ObjectRef ID="4188" />
-        <ObjectRef ID="4189" />
-        <ObjectRef ID="4190" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4178" Name="Conc" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4179" Name="ToPoint" Parent="4177" Value="Target_30" />
-    <RoutineArgument ID="4180" Name="ID" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4181" Name="Speed" Parent="4177" Value="v200" />
-    <RoutineArgument ID="4182" Name="V" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4183" Name="T" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4184" Name="Zone" Parent="4177" Value="z5" />
-    <RoutineArgument ID="4185" Name="Z" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4186" Name="Inpos" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4187" Name="Tool" Parent="4177" Value="THerramienta" />
-    <RoutineArgument ID="4188" Name="WObj" Parent="4177" Value="Workobject_1" />
-    <RoutineArgument ID="4189" Name="Corr" Parent="4177" Enabled="false" />
-    <RoutineArgument ID="4190" Name="TLoad" Parent="4177" Enabled="false" />
-    <MoveInstructionCall ID="4191" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4192" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4192" Name="" Parent="4191">
-      <RoutineArguments>
-        <ObjectRef ID="4193" />
-        <ObjectRef ID="4194" />
-        <ObjectRef ID="4195" />
-        <ObjectRef ID="4196" />
-        <ObjectRef ID="4197" />
-        <ObjectRef ID="4198" />
-        <ObjectRef ID="4199" />
-        <ObjectRef ID="4200" />
-        <ObjectRef ID="4201" />
-        <ObjectRef ID="4202" />
-        <ObjectRef ID="4203" />
-        <ObjectRef ID="4204" />
-        <ObjectRef ID="4205" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4193" Name="Conc" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4194" Name="ToPoint" Parent="4192" Value="Target_40" />
-    <RoutineArgument ID="4195" Name="ID" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4196" Name="Speed" Parent="4192" Value="v200" />
-    <RoutineArgument ID="4197" Name="V" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4198" Name="T" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4199" Name="Zone" Parent="4192" Value="z5" />
-    <RoutineArgument ID="4200" Name="Z" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4201" Name="Inpos" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4202" Name="Tool" Parent="4192" Value="THerramienta" />
-    <RoutineArgument ID="4203" Name="WObj" Parent="4192" Value="Workobject_1" />
-    <RoutineArgument ID="4204" Name="Corr" Parent="4192" Enabled="false" />
-    <RoutineArgument ID="4205" Name="TLoad" Parent="4192" Enabled="false" />
-    <MoveInstructionCall ID="4206" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4207" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4207" Name="" Parent="4206">
-      <RoutineArguments>
-        <ObjectRef ID="4208" />
-        <ObjectRef ID="4209" />
-        <ObjectRef ID="4210" />
-        <ObjectRef ID="4211" />
-        <ObjectRef ID="4212" />
-        <ObjectRef ID="4213" />
-        <ObjectRef ID="4214" />
-        <ObjectRef ID="4215" />
-        <ObjectRef ID="4216" />
-        <ObjectRef ID="4217" />
-        <ObjectRef ID="4218" />
-        <ObjectRef ID="4219" />
-        <ObjectRef ID="4220" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4208" Name="Conc" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4209" Name="ToPoint" Parent="4207" Value="Target_50" />
-    <RoutineArgument ID="4210" Name="ID" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4211" Name="Speed" Parent="4207" Value="v200" />
-    <RoutineArgument ID="4212" Name="V" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4213" Name="T" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4214" Name="Zone" Parent="4207" Value="z5" />
-    <RoutineArgument ID="4215" Name="Z" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4216" Name="Inpos" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4217" Name="Tool" Parent="4207" Value="THerramienta" />
-    <RoutineArgument ID="4218" Name="WObj" Parent="4207" Value="Workobject_1" />
-    <RoutineArgument ID="4219" Name="Corr" Parent="4207" Enabled="false" />
-    <RoutineArgument ID="4220" Name="TLoad" Parent="4207" Enabled="false" />
-    <MoveInstructionCall ID="4221" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4222" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4222" Name="" Parent="4221">
-      <RoutineArguments>
-        <ObjectRef ID="4223" />
-        <ObjectRef ID="4224" />
-        <ObjectRef ID="4225" />
-        <ObjectRef ID="4226" />
-        <ObjectRef ID="4227" />
-        <ObjectRef ID="4228" />
-        <ObjectRef ID="4229" />
-        <ObjectRef ID="4230" />
-        <ObjectRef ID="4231" />
-        <ObjectRef ID="4232" />
-        <ObjectRef ID="4233" />
-        <ObjectRef ID="4234" />
-        <ObjectRef ID="4235" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4223" Name="Conc" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4224" Name="ToPoint" Parent="4222" Value="Target_60" />
-    <RoutineArgument ID="4225" Name="ID" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4226" Name="Speed" Parent="4222" Value="v200" />
-    <RoutineArgument ID="4227" Name="V" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4228" Name="T" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4229" Name="Zone" Parent="4222" Value="z5" />
-    <RoutineArgument ID="4230" Name="Z" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4231" Name="Inpos" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4232" Name="Tool" Parent="4222" Value="THerramienta" />
-    <RoutineArgument ID="4233" Name="WObj" Parent="4222" Value="Workobject_1" />
-    <RoutineArgument ID="4234" Name="Corr" Parent="4222" Enabled="false" />
-    <RoutineArgument ID="4235" Name="TLoad" Parent="4222" Enabled="false" />
-    <MoveInstructionCall ID="4236" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4237" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4237" Name="" Parent="4236">
-      <RoutineArguments>
-        <ObjectRef ID="4238" />
-        <ObjectRef ID="4239" />
-        <ObjectRef ID="4240" />
-        <ObjectRef ID="4241" />
-        <ObjectRef ID="4242" />
-        <ObjectRef ID="4243" />
-        <ObjectRef ID="4244" />
-        <ObjectRef ID="4245" />
-        <ObjectRef ID="4246" />
-        <ObjectRef ID="4247" />
-        <ObjectRef ID="4248" />
-        <ObjectRef ID="4249" />
-        <ObjectRef ID="4250" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4238" Name="Conc" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4239" Name="ToPoint" Parent="4237" Value="Target_70" />
-    <RoutineArgument ID="4240" Name="ID" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4241" Name="Speed" Parent="4237" Value="v200" />
-    <RoutineArgument ID="4242" Name="V" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4243" Name="T" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4244" Name="Zone" Parent="4237" Value="z5" />
-    <RoutineArgument ID="4245" Name="Z" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4246" Name="Inpos" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4247" Name="Tool" Parent="4237" Value="THerramienta" />
-    <RoutineArgument ID="4248" Name="WObj" Parent="4237" Value="Workobject_1" />
-    <RoutineArgument ID="4249" Name="Corr" Parent="4237" Enabled="false" />
-    <RoutineArgument ID="4250" Name="TLoad" Parent="4237" Enabled="false" />
-    <MoveInstructionCall ID="4251" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4252" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4252" Name="" Parent="4251">
-      <RoutineArguments>
-        <ObjectRef ID="4253" />
-        <ObjectRef ID="4254" />
-        <ObjectRef ID="4255" />
-        <ObjectRef ID="4256" />
-        <ObjectRef ID="4257" />
-        <ObjectRef ID="4258" />
-        <ObjectRef ID="4259" />
-        <ObjectRef ID="4260" />
-        <ObjectRef ID="4261" />
-        <ObjectRef ID="4262" />
-        <ObjectRef ID="4263" />
-        <ObjectRef ID="4264" />
-        <ObjectRef ID="4265" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4253" Name="Conc" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4254" Name="ToPoint" Parent="4252" Value="Target_80" />
-    <RoutineArgument ID="4255" Name="ID" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4256" Name="Speed" Parent="4252" Value="v200" />
-    <RoutineArgument ID="4257" Name="V" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4258" Name="T" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4259" Name="Zone" Parent="4252" Value="z5" />
-    <RoutineArgument ID="4260" Name="Z" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4261" Name="Inpos" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4262" Name="Tool" Parent="4252" Value="THerramienta" />
-    <RoutineArgument ID="4263" Name="WObj" Parent="4252" Value="Workobject_1" />
-    <RoutineArgument ID="4264" Name="Corr" Parent="4252" Enabled="false" />
-    <RoutineArgument ID="4265" Name="TLoad" Parent="4252" Enabled="false" />
-    <MoveInstructionCall ID="4266" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4267" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4267" Name="" Parent="4266">
-      <RoutineArguments>
-        <ObjectRef ID="4268" />
-        <ObjectRef ID="4269" />
-        <ObjectRef ID="4270" />
-        <ObjectRef ID="4271" />
-        <ObjectRef ID="4272" />
-        <ObjectRef ID="4273" />
-        <ObjectRef ID="4274" />
-        <ObjectRef ID="4275" />
-        <ObjectRef ID="4276" />
-        <ObjectRef ID="4277" />
-        <ObjectRef ID="4278" />
-        <ObjectRef ID="4279" />
-        <ObjectRef ID="4280" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4268" Name="Conc" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4269" Name="ToPoint" Parent="4267" Value="Target_90" />
-    <RoutineArgument ID="4270" Name="ID" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4271" Name="Speed" Parent="4267" Value="v200" />
-    <RoutineArgument ID="4272" Name="V" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4273" Name="T" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4274" Name="Zone" Parent="4267" Value="z5" />
-    <RoutineArgument ID="4275" Name="Z" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4276" Name="Inpos" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4277" Name="Tool" Parent="4267" Value="THerramienta" />
-    <RoutineArgument ID="4278" Name="WObj" Parent="4267" Value="Workobject_1" />
-    <RoutineArgument ID="4279" Name="Corr" Parent="4267" Enabled="false" />
-    <RoutineArgument ID="4280" Name="TLoad" Parent="4267" Enabled="false" />
-    <MoveInstructionCall ID="4281" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4282" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4282" Name="" Parent="4281">
-      <RoutineArguments>
-        <ObjectRef ID="4283" />
-        <ObjectRef ID="4284" />
-        <ObjectRef ID="4285" />
-        <ObjectRef ID="4286" />
-        <ObjectRef ID="4287" />
-        <ObjectRef ID="4288" />
-        <ObjectRef ID="4289" />
-        <ObjectRef ID="4290" />
-        <ObjectRef ID="4291" />
-        <ObjectRef ID="4292" />
-        <ObjectRef ID="4293" />
-        <ObjectRef ID="4294" />
-        <ObjectRef ID="4295" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4283" Name="Conc" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4284" Name="ToPoint" Parent="4282" Value="Target_100" />
-    <RoutineArgument ID="4285" Name="ID" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4286" Name="Speed" Parent="4282" Value="v200" />
-    <RoutineArgument ID="4287" Name="V" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4288" Name="T" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4289" Name="Zone" Parent="4282" Value="z5" />
-    <RoutineArgument ID="4290" Name="Z" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4291" Name="Inpos" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4292" Name="Tool" Parent="4282" Value="THerramienta" />
-    <RoutineArgument ID="4293" Name="WObj" Parent="4282" Value="Workobject_1" />
-    <RoutineArgument ID="4294" Name="Corr" Parent="4282" Enabled="false" />
-    <RoutineArgument ID="4295" Name="TLoad" Parent="4282" Enabled="false" />
-    <MoveInstructionCall ID="4296" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4297" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4297" Name="" Parent="4296">
-      <RoutineArguments>
-        <ObjectRef ID="4298" />
-        <ObjectRef ID="4299" />
-        <ObjectRef ID="4300" />
-        <ObjectRef ID="4301" />
-        <ObjectRef ID="4302" />
-        <ObjectRef ID="4303" />
-        <ObjectRef ID="4304" />
-        <ObjectRef ID="4305" />
-        <ObjectRef ID="4306" />
-        <ObjectRef ID="4307" />
-        <ObjectRef ID="4308" />
-        <ObjectRef ID="4309" />
-        <ObjectRef ID="4310" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4298" Name="Conc" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4299" Name="ToPoint" Parent="4297" Value="Target_110" />
-    <RoutineArgument ID="4300" Name="ID" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4301" Name="Speed" Parent="4297" Value="v200" />
-    <RoutineArgument ID="4302" Name="V" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4303" Name="T" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4304" Name="Zone" Parent="4297" Value="z5" />
-    <RoutineArgument ID="4305" Name="Z" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4306" Name="Inpos" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4307" Name="Tool" Parent="4297" Value="THerramienta" />
-    <RoutineArgument ID="4308" Name="WObj" Parent="4297" Value="Workobject_1" />
-    <RoutineArgument ID="4309" Name="Corr" Parent="4297" Enabled="false" />
-    <RoutineArgument ID="4310" Name="TLoad" Parent="4297" Enabled="false" />
-    <MoveInstructionCall ID="4311" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4312" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4312" Name="" Parent="4311">
-      <RoutineArguments>
-        <ObjectRef ID="4313" />
-        <ObjectRef ID="4314" />
-        <ObjectRef ID="4315" />
-        <ObjectRef ID="4316" />
-        <ObjectRef ID="4317" />
-        <ObjectRef ID="4318" />
-        <ObjectRef ID="4319" />
-        <ObjectRef ID="4320" />
-        <ObjectRef ID="4321" />
-        <ObjectRef ID="4322" />
-        <ObjectRef ID="4323" />
-        <ObjectRef ID="4324" />
-        <ObjectRef ID="4325" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4313" Name="Conc" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4314" Name="ToPoint" Parent="4312" Value="Target_120" />
-    <RoutineArgument ID="4315" Name="ID" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4316" Name="Speed" Parent="4312" Value="v200" />
-    <RoutineArgument ID="4317" Name="V" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4318" Name="T" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4319" Name="Zone" Parent="4312" Value="z5" />
-    <RoutineArgument ID="4320" Name="Z" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4321" Name="Inpos" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4322" Name="Tool" Parent="4312" Value="THerramienta" />
-    <RoutineArgument ID="4323" Name="WObj" Parent="4312" Value="Workobject_1" />
-    <RoutineArgument ID="4324" Name="Corr" Parent="4312" Enabled="false" />
-    <RoutineArgument ID="4325" Name="TLoad" Parent="4312" Enabled="false" />
-    <MoveInstructionCall ID="4326" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4327" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4327" Name="" Parent="4326">
-      <RoutineArguments>
-        <ObjectRef ID="4328" />
-        <ObjectRef ID="4329" />
-        <ObjectRef ID="4330" />
-        <ObjectRef ID="4331" />
-        <ObjectRef ID="4332" />
-        <ObjectRef ID="4333" />
-        <ObjectRef ID="4334" />
-        <ObjectRef ID="4335" />
-        <ObjectRef ID="4336" />
-        <ObjectRef ID="4337" />
-        <ObjectRef ID="4338" />
-        <ObjectRef ID="4339" />
-        <ObjectRef ID="4340" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4328" Name="Conc" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4329" Name="ToPoint" Parent="4327" Value="Target_130" />
-    <RoutineArgument ID="4330" Name="ID" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4331" Name="Speed" Parent="4327" Value="v200" />
-    <RoutineArgument ID="4332" Name="V" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4333" Name="T" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4334" Name="Zone" Parent="4327" Value="z5" />
-    <RoutineArgument ID="4335" Name="Z" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4336" Name="Inpos" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4337" Name="Tool" Parent="4327" Value="THerramienta" />
-    <RoutineArgument ID="4338" Name="WObj" Parent="4327" Value="Workobject_1" />
-    <RoutineArgument ID="4339" Name="Corr" Parent="4327" Enabled="false" />
-    <RoutineArgument ID="4340" Name="TLoad" Parent="4327" Enabled="false" />
-    <MoveInstructionCall ID="4341" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4342" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4342" Name="" Parent="4341">
-      <RoutineArguments>
-        <ObjectRef ID="4343" />
-        <ObjectRef ID="4344" />
-        <ObjectRef ID="4345" />
-        <ObjectRef ID="4346" />
-        <ObjectRef ID="4347" />
-        <ObjectRef ID="4348" />
-        <ObjectRef ID="4349" />
-        <ObjectRef ID="4350" />
-        <ObjectRef ID="4351" />
-        <ObjectRef ID="4352" />
-        <ObjectRef ID="4353" />
-        <ObjectRef ID="4354" />
-        <ObjectRef ID="4355" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4343" Name="Conc" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4344" Name="ToPoint" Parent="4342" Value="Target_140" />
-    <RoutineArgument ID="4345" Name="ID" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4346" Name="Speed" Parent="4342" Value="v200" />
-    <RoutineArgument ID="4347" Name="V" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4348" Name="T" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4349" Name="Zone" Parent="4342" Value="z5" />
-    <RoutineArgument ID="4350" Name="Z" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4351" Name="Inpos" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4352" Name="Tool" Parent="4342" Value="THerramienta" />
-    <RoutineArgument ID="4353" Name="WObj" Parent="4342" Value="Workobject_1" />
-    <RoutineArgument ID="4354" Name="Corr" Parent="4342" Enabled="false" />
-    <RoutineArgument ID="4355" Name="TLoad" Parent="4342" Enabled="false" />
-    <MoveInstructionCall ID="4356" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4357" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4357" Name="" Parent="4356">
-      <RoutineArguments>
-        <ObjectRef ID="4358" />
-        <ObjectRef ID="4359" />
-        <ObjectRef ID="4360" />
-        <ObjectRef ID="4361" />
-        <ObjectRef ID="4362" />
-        <ObjectRef ID="4363" />
-        <ObjectRef ID="4364" />
-        <ObjectRef ID="4365" />
-        <ObjectRef ID="4366" />
-        <ObjectRef ID="4367" />
-        <ObjectRef ID="4368" />
-        <ObjectRef ID="4369" />
-        <ObjectRef ID="4370" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4358" Name="Conc" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4359" Name="ToPoint" Parent="4357" Value="Target_150" />
-    <RoutineArgument ID="4360" Name="ID" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4361" Name="Speed" Parent="4357" Value="v200" />
-    <RoutineArgument ID="4362" Name="V" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4363" Name="T" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4364" Name="Zone" Parent="4357" Value="z5" />
-    <RoutineArgument ID="4365" Name="Z" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4366" Name="Inpos" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4367" Name="Tool" Parent="4357" Value="THerramienta" />
-    <RoutineArgument ID="4368" Name="WObj" Parent="4357" Value="Workobject_1" />
-    <RoutineArgument ID="4369" Name="Corr" Parent="4357" Enabled="false" />
-    <RoutineArgument ID="4370" Name="TLoad" Parent="4357" Enabled="false" />
-    <MoveInstructionCall ID="4371" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4372" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4372" Name="" Parent="4371">
-      <RoutineArguments>
-        <ObjectRef ID="4373" />
-        <ObjectRef ID="4374" />
-        <ObjectRef ID="4375" />
-        <ObjectRef ID="4376" />
-        <ObjectRef ID="4377" />
-        <ObjectRef ID="4378" />
-        <ObjectRef ID="4379" />
-        <ObjectRef ID="4380" />
-        <ObjectRef ID="4381" />
-        <ObjectRef ID="4382" />
-        <ObjectRef ID="4383" />
-        <ObjectRef ID="4384" />
-        <ObjectRef ID="4385" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4373" Name="Conc" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4374" Name="ToPoint" Parent="4372" Value="Target_160" />
-    <RoutineArgument ID="4375" Name="ID" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4376" Name="Speed" Parent="4372" Value="v200" />
-    <RoutineArgument ID="4377" Name="V" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4378" Name="T" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4379" Name="Zone" Parent="4372" Value="z5" />
-    <RoutineArgument ID="4380" Name="Z" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4381" Name="Inpos" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4382" Name="Tool" Parent="4372" Value="THerramienta" />
-    <RoutineArgument ID="4383" Name="WObj" Parent="4372" Value="Workobject_1" />
-    <RoutineArgument ID="4384" Name="Corr" Parent="4372" Enabled="false" />
-    <RoutineArgument ID="4385" Name="TLoad" Parent="4372" Enabled="false" />
-    <MoveInstructionCall ID="4386" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4387" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4387" Name="" Parent="4386">
-      <RoutineArguments>
-        <ObjectRef ID="4388" />
-        <ObjectRef ID="4389" />
-        <ObjectRef ID="4390" />
-        <ObjectRef ID="4391" />
-        <ObjectRef ID="4392" />
-        <ObjectRef ID="4393" />
-        <ObjectRef ID="4394" />
-        <ObjectRef ID="4395" />
-        <ObjectRef ID="4396" />
-        <ObjectRef ID="4397" />
-        <ObjectRef ID="4398" />
-        <ObjectRef ID="4399" />
-        <ObjectRef ID="4400" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4388" Name="Conc" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4389" Name="ToPoint" Parent="4387" Value="Target_170" />
-    <RoutineArgument ID="4390" Name="ID" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4391" Name="Speed" Parent="4387" Value="v200" />
-    <RoutineArgument ID="4392" Name="V" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4393" Name="T" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4394" Name="Zone" Parent="4387" Value="z5" />
-    <RoutineArgument ID="4395" Name="Z" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4396" Name="Inpos" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4397" Name="Tool" Parent="4387" Value="THerramienta" />
-    <RoutineArgument ID="4398" Name="WObj" Parent="4387" Value="Workobject_1" />
-    <RoutineArgument ID="4399" Name="Corr" Parent="4387" Enabled="false" />
-    <RoutineArgument ID="4400" Name="TLoad" Parent="4387" Enabled="false" />
-    <MoveInstructionCall ID="4401" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4402" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4402" Name="" Parent="4401">
-      <RoutineArguments>
-        <ObjectRef ID="4403" />
-        <ObjectRef ID="4404" />
-        <ObjectRef ID="4405" />
-        <ObjectRef ID="4406" />
-        <ObjectRef ID="4407" />
-        <ObjectRef ID="4408" />
-        <ObjectRef ID="4409" />
-        <ObjectRef ID="4410" />
-        <ObjectRef ID="4411" />
-        <ObjectRef ID="4412" />
-        <ObjectRef ID="4413" />
-        <ObjectRef ID="4414" />
-        <ObjectRef ID="4415" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4403" Name="Conc" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4404" Name="ToPoint" Parent="4402" Value="Target_180" />
-    <RoutineArgument ID="4405" Name="ID" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4406" Name="Speed" Parent="4402" Value="v200" />
-    <RoutineArgument ID="4407" Name="V" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4408" Name="T" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4409" Name="Zone" Parent="4402" Value="z5" />
-    <RoutineArgument ID="4410" Name="Z" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4411" Name="Inpos" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4412" Name="Tool" Parent="4402" Value="THerramienta" />
-    <RoutineArgument ID="4413" Name="WObj" Parent="4402" Value="Workobject_1" />
-    <RoutineArgument ID="4414" Name="Corr" Parent="4402" Enabled="false" />
-    <RoutineArgument ID="4415" Name="TLoad" Parent="4402" Enabled="false" />
-    <MoveInstructionCall ID="4416" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4417" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4417" Name="" Parent="4416">
-      <RoutineArguments>
-        <ObjectRef ID="4418" />
-        <ObjectRef ID="4419" />
-        <ObjectRef ID="4420" />
-        <ObjectRef ID="4421" />
-        <ObjectRef ID="4422" />
-        <ObjectRef ID="4423" />
-        <ObjectRef ID="4424" />
-        <ObjectRef ID="4425" />
-        <ObjectRef ID="4426" />
-        <ObjectRef ID="4427" />
-        <ObjectRef ID="4428" />
-        <ObjectRef ID="4429" />
-        <ObjectRef ID="4430" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4418" Name="Conc" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4419" Name="ToPoint" Parent="4417" Value="Target_190" />
-    <RoutineArgument ID="4420" Name="ID" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4421" Name="Speed" Parent="4417" Value="v200" />
-    <RoutineArgument ID="4422" Name="V" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4423" Name="T" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4424" Name="Zone" Parent="4417" Value="z5" />
-    <RoutineArgument ID="4425" Name="Z" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4426" Name="Inpos" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4427" Name="Tool" Parent="4417" Value="THerramienta" />
-    <RoutineArgument ID="4428" Name="WObj" Parent="4417" Value="Workobject_1" />
-    <RoutineArgument ID="4429" Name="Corr" Parent="4417" Enabled="false" />
-    <RoutineArgument ID="4430" Name="TLoad" Parent="4417" Enabled="false" />
-    <MoveInstructionCall ID="4431" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4432" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4432" Name="" Parent="4431">
-      <RoutineArguments>
-        <ObjectRef ID="4433" />
-        <ObjectRef ID="4434" />
-        <ObjectRef ID="4435" />
-        <ObjectRef ID="4436" />
-        <ObjectRef ID="4437" />
-        <ObjectRef ID="4438" />
-        <ObjectRef ID="4439" />
-        <ObjectRef ID="4440" />
-        <ObjectRef ID="4441" />
-        <ObjectRef ID="4442" />
-        <ObjectRef ID="4443" />
-        <ObjectRef ID="4444" />
-        <ObjectRef ID="4445" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4433" Name="Conc" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4434" Name="ToPoint" Parent="4432" Value="Target_200" />
-    <RoutineArgument ID="4435" Name="ID" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4436" Name="Speed" Parent="4432" Value="v200" />
-    <RoutineArgument ID="4437" Name="V" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4438" Name="T" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4439" Name="Zone" Parent="4432" Value="z5" />
-    <RoutineArgument ID="4440" Name="Z" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4441" Name="Inpos" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4442" Name="Tool" Parent="4432" Value="THerramienta" />
-    <RoutineArgument ID="4443" Name="WObj" Parent="4432" Value="Workobject_1" />
-    <RoutineArgument ID="4444" Name="Corr" Parent="4432" Enabled="false" />
-    <RoutineArgument ID="4445" Name="TLoad" Parent="4432" Enabled="false" />
-    <MoveInstructionCall ID="4446" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4447" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4447" Name="" Parent="4446">
-      <RoutineArguments>
-        <ObjectRef ID="4448" />
-        <ObjectRef ID="4449" />
-        <ObjectRef ID="4450" />
-        <ObjectRef ID="4451" />
-        <ObjectRef ID="4452" />
-        <ObjectRef ID="4453" />
-        <ObjectRef ID="4454" />
-        <ObjectRef ID="4455" />
-        <ObjectRef ID="4456" />
-        <ObjectRef ID="4457" />
-        <ObjectRef ID="4458" />
-        <ObjectRef ID="4459" />
-        <ObjectRef ID="4460" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4448" Name="Conc" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4449" Name="ToPoint" Parent="4447" Value="Target_210" />
-    <RoutineArgument ID="4450" Name="ID" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4451" Name="Speed" Parent="4447" Value="v200" />
-    <RoutineArgument ID="4452" Name="V" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4453" Name="T" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4454" Name="Zone" Parent="4447" Value="z5" />
-    <RoutineArgument ID="4455" Name="Z" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4456" Name="Inpos" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4457" Name="Tool" Parent="4447" Value="THerramienta" />
-    <RoutineArgument ID="4458" Name="WObj" Parent="4447" Value="Workobject_1" />
-    <RoutineArgument ID="4459" Name="Corr" Parent="4447" Enabled="false" />
-    <RoutineArgument ID="4460" Name="TLoad" Parent="4447" Enabled="false" />
     <MoveInstructionCall ID="4461" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
       <ArgumentList ID="4462" />
       <GroupName Value="Move" />
@@ -8746,114 +7992,6 @@
     <RoutineArgument ID="4473" Name="WObj" Parent="4462" Value="Workobject_1" />
     <RoutineArgument ID="4474" Name="Corr" Parent="4462" Enabled="false" />
     <RoutineArgument ID="4475" Name="TLoad" Parent="4462" Enabled="false" />
-    <MoveInstructionCall ID="4476" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4477" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4477" Name="" Parent="4476">
-      <RoutineArguments>
-        <ObjectRef ID="4478" />
-        <ObjectRef ID="4479" />
-        <ObjectRef ID="4480" />
-        <ObjectRef ID="4481" />
-        <ObjectRef ID="4482" />
-        <ObjectRef ID="4483" />
-        <ObjectRef ID="4484" />
-        <ObjectRef ID="4485" />
-        <ObjectRef ID="4486" />
-        <ObjectRef ID="4487" />
-        <ObjectRef ID="4488" />
-        <ObjectRef ID="4489" />
-        <ObjectRef ID="4490" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4478" Name="Conc" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4479" Name="ToPoint" Parent="4477" Value="Target_230" />
-    <RoutineArgument ID="4480" Name="ID" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4481" Name="Speed" Parent="4477" Value="v200" />
-    <RoutineArgument ID="4482" Name="V" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4483" Name="T" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4484" Name="Zone" Parent="4477" Value="z5" />
-    <RoutineArgument ID="4485" Name="Z" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4486" Name="Inpos" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4487" Name="Tool" Parent="4477" Value="THerramienta" />
-    <RoutineArgument ID="4488" Name="WObj" Parent="4477" Value="Workobject_1" />
-    <RoutineArgument ID="4489" Name="Corr" Parent="4477" Enabled="false" />
-    <RoutineArgument ID="4490" Name="TLoad" Parent="4477" Enabled="false" />
-    <MoveInstructionCall ID="4491" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4492" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4492" Name="" Parent="4491">
-      <RoutineArguments>
-        <ObjectRef ID="4493" />
-        <ObjectRef ID="4494" />
-        <ObjectRef ID="4495" />
-        <ObjectRef ID="4496" />
-        <ObjectRef ID="4497" />
-        <ObjectRef ID="4498" />
-        <ObjectRef ID="4499" />
-        <ObjectRef ID="4500" />
-        <ObjectRef ID="4501" />
-        <ObjectRef ID="4502" />
-        <ObjectRef ID="4503" />
-        <ObjectRef ID="4504" />
-        <ObjectRef ID="4505" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4493" Name="Conc" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4494" Name="ToPoint" Parent="4492" Value="Target_240" />
-    <RoutineArgument ID="4495" Name="ID" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4496" Name="Speed" Parent="4492" Value="v200" />
-    <RoutineArgument ID="4497" Name="V" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4498" Name="T" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4499" Name="Zone" Parent="4492" Value="z5" />
-    <RoutineArgument ID="4500" Name="Z" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4501" Name="Inpos" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4502" Name="Tool" Parent="4492" Value="THerramienta" />
-    <RoutineArgument ID="4503" Name="WObj" Parent="4492" Value="Workobject_1" />
-    <RoutineArgument ID="4504" Name="Corr" Parent="4492" Enabled="false" />
-    <RoutineArgument ID="4505" Name="TLoad" Parent="4492" Enabled="false" />
-    <MoveInstructionCall ID="4506" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
-      <ArgumentList ID="4507" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4507" Name="" Parent="4506">
-      <RoutineArguments>
-        <ObjectRef ID="4508" />
-        <ObjectRef ID="4509" />
-        <ObjectRef ID="4510" />
-        <ObjectRef ID="4511" />
-        <ObjectRef ID="4512" />
-        <ObjectRef ID="4513" />
-        <ObjectRef ID="4514" />
-        <ObjectRef ID="4515" />
-        <ObjectRef ID="4516" />
-        <ObjectRef ID="4517" />
-        <ObjectRef ID="4518" />
-        <ObjectRef ID="4519" />
-        <ObjectRef ID="4520" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4508" Name="Conc" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4509" Name="ToPoint" Parent="4507" Value="Target_250" />
-    <RoutineArgument ID="4510" Name="ID" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4511" Name="Speed" Parent="4507" Value="v200" />
-    <RoutineArgument ID="4512" Name="V" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4513" Name="T" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4514" Name="Zone" Parent="4507" Value="z5" />
-    <RoutineArgument ID="4515" Name="Z" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4516" Name="Inpos" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4517" Name="Tool" Parent="4507" Value="THerramienta" />
-    <RoutineArgument ID="4518" Name="WObj" Parent="4507" Value="Workobject_1" />
-    <RoutineArgument ID="4519" Name="Corr" Parent="4507" Enabled="false" />
-    <RoutineArgument ID="4520" Name="TLoad" Parent="4507" Enabled="false" />
     <MoveInstructionCall ID="4521" Name="MoveL" Parent="4144" Thickness="2" Reachable="1">
       <ArgumentList ID="4522" />
       <GroupName Value="Move" />
@@ -9165,123 +8303,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4643" Name="Target_20" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.24078956915457,0.97048609209522,0.228578635448603,-2.14401156279724,0.52559623745297,2.69535196879396" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4644" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[127.176015411,158.806349071,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4644" Name="" Parent="4643" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4645" Name="Target_20" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4643" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.873949135480696" Y="-0.486017395360027" Z="0" W="0" />
-        <RowY X="0.486017395360027" Y="-0.873949135480696" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.127176015411" Y="0.158806349071" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4646" Name="Target_30" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.33248942392998,0.96677999747663,0.240333915986031,-2.04268505934224,0.558166968508289,2.67697326608902" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4647" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[94.179068929,126.362545613,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4647" Name="" Parent="4646" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4648" Name="Target_30" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4646" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.500721143745132" Y="-0.865608650723043" Z="0" W="0" />
-        <RowY X="0.865608650723043" Y="-0.500721143745132" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.094179068929" Y="0.126362545613" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4649" Name="Target_40" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.40956269011919,0.992691961504504,0.160862803158814,-1.87493946405694,0.565079245561959,2.56306315824211" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4650" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[82.505775243,81.583833322,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4650" Name="" Parent="4649" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4651" Name="Target_40" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4649" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.0144055396140814" Y="-0.999896234830608" Z="0" W="0" />
-        <RowY X="0.999896234830608" Y="0.0144055396140814" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.082505775243" Y="0.081583833322" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="4652" Name="Target_50" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -9321,85 +8342,7 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4655" Name="Target_60" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.42650570546054,1.02953208715243,0.056180427487908,-1.75184167356247,0.555938198496046,2.43578933537218" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4656" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[95.659015698,52.859355196,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4656" Name="" Parent="4655" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4657" Name="Target_60" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4655" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.145310006747626" Y="0.989386174321738" Z="0" W="0" />
-        <RowY X="-0.989386174321738" Y="0.145310006747626" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.095659015698" Y="0.052859355196" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4658" Name="Target_70" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.4024533406722,1.01882163934314,0.0858219426006049,-1.80696423743595,0.549082792436292,2.47542374056211" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4659" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[99.986563128,67.9517476,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4659" Name="" Parent="4658" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4660" Name="Target_70" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4658" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.401050734660836" Y="0.916055843400392" Z="0" W="0" />
-        <RowY X="-0.916055843400392" Y="0.401050734660836" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.099986563128" Y="0.0679517476" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4661" Name="Target_80" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+    <DataDeclaration ID="4661" Name="Target_60" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
           <Value>
@@ -9420,7 +8363,7 @@
       <TaskName Value="" />
       <ModuleName Value="Module1" />
     </RAPIDDeclarationInfo>
-    <Target ID="4663" Name="Target_80" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+    <Target ID="4663" Name="Target_60" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
       <Attributes>
         <Attribute Key="GfxObject.Invisible">
           <Value>
@@ -9435,84 +8378,6 @@
         <RowY X="-0.777886478789174" Y="0.628404826618144" Z="0" W="0" />
         <RowZ X="0" Y="0" Z="1" W="0" />
         <RowT X="0.108140548997" Y="0.081368919049" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4664" Name="Target_90" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.38603463400144,1.02690560897024,0.0633968446914559,-1.80136338196251,0.53848423245758,2.45180212527684" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4665" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[110.943419364,69.425655071,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4665" Name="" Parent="4664" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4666" Name="Target_90" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4664" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.421681933582777" Y="-0.906743815468234" Z="0" W="0" />
-        <RowY X="0.906743815468234" Y="0.421681933582777" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.110943419364" Y="0.069425655071" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4667" Name="Target_100" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.38853234184093,1.04298087750901,0.019719253503434,-1.7532922052182,0.533982261872315,2.39844338031499" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4668" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[118.270530204,59.586392727,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4668" Name="" Parent="4667" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4669" Name="Target_100" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4667" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.747889431716957" Y="-0.663823318305471" Z="0" W="0" />
-        <RowY X="0.663823318305471" Y="0.747889431716957" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.118270530204" Y="0.059586392727" Z="0" W="1" />
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
@@ -9594,84 +8459,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4676" Name="Target_130" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.37325680995985,1.0644663540491,-0.0370249653563912,-1.70883089161899,0.520781109426211,2.33170616541091" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4677" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[135.242270658,54.463630271,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4677" Name="" Parent="4676" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4678" Name="Target_130" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4676" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.608736117642462" Y="-0.793372761744177" Z="0" W="0" />
-        <RowY X="0.793372761744177" Y="0.608736117642462" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.135242270658" Y="0.054463630271" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4679" Name="Target_140" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.37039204707894,1.08460422772395,-0.0887888588688371,-1.65643258469268,0.515738995755423,2.26859630884816" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4680" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[145.944316156,45.842509218,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4680" Name="" Parent="4679" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4681" Name="Target_140" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4679" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.90478908949711" Y="-0.425859957646866" Z="0" W="0" />
-        <RowY X="0.425859957646866" Y="0.90478908949711" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.145944316156" Y="0.045842509218" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="4682" Name="Target_150" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -9750,84 +8537,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4688" Name="Target_170" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.34450718252221,1.10750881063358,-0.146266081023208,-1.61756724728675,0.499023987736675,2.19956213356972" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4689" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[167.339659667,46.46756084,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4689" Name="" Parent="4688" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4690" Name="Target_170" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4688" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.885203096471614" Y="-0.465204769963794" Z="0" W="0" />
-        <RowY X="0.465204769963794" Y="0.885203096471614" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.167339659667" Y="0.04646756084" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4691" Name="Target_180" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.33191322184333,1.12897021667199,-0.198971915592072,-1.57021767744632,0.490929646527657,2.13415414531642" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4692" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[182.086391819,43.022892643,0],[0.015654757,0,0,0.999877457],[1,-1,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4692" Name="" Parent="4691" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4693" Name="Target_180" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4691" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.999689563881042" Y="0.0249153741158207" Z="0" W="0" />
-        <RowY X="-0.0249153741158207" Y="0.999689563881042" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.182086391819" Y="0.043022892643" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="4694" Name="Target_190" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -9867,84 +8576,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4697" Name="Target_200" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.30827079448216,1.10243464615873,-0.133649100628621,-1.66421212983677,0.478969520356825,2.21865387711229" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4698" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[180.134939682,64.681155269,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4698" Name="" Parent="4697" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4699" Name="Target_200" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4697" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.576321098603526" Y="0.817223342363901" Z="0" W="0" />
-        <RowY X="-0.817223342363901" Y="-0.576321098603526" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.180134939682" Y="0.064681155269" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4700" Name="Target_210" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.29370387843126,1.06837043173389,-0.0471599308610965,-1.77859953672664,0.478992435688805,2.333746959626" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4701" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[169.208263421,86.100663464,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4701" Name="" Parent="4700" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4702" Name="Target_210" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4700" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.323298772366593" Y="0.946296942712093" Z="0" W="0" />
-        <RowY X="-0.946296942712093" Y="-0.323298772366593" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.169208263421" Y="0.086100663464" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="4703" Name="Target_220" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -9981,45 +8612,6 @@
         <RowY X="-0.999023029394996" Y="-0.0441926095455574" Z="0" W="0" />
         <RowZ X="0" Y="0" Z="1" W="0" />
         <RowT X="0.164744756678" Y="0.109728289095" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4706" Name="Target_230" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.23282847830212,1.06463784262907,-0.037471212360447,-1.85759792316977,0.449770247460101,2.36392831719318" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4707" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[189.86479429,115.046784411,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4707" Name="" Parent="4706" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4708" Name="Target_230" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4706" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.799226135479887" Y="0.60103043547385" Z="0" W="0" />
-        <RowY X="-0.60103043547385" Y="0.799226135479887" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.18986479429" Y="0.115046784411" Z="0" W="1" />
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
@@ -10369,7 +8961,7 @@
       <ReferenceFrame>
         <RowX X="0" Y="-0.965925826062143" Z="0.25881904594942" W="0" />
         <RowY X="1" Y="0" Z="0" W="0" />
-        <RowZ X="0" Y="0.25881904594942" Z="0.965925826062143" W="0" />
+        <RowZ X="0" Y="0.25881904594942" Z="0.965925826062142" W="0" />
         <RowT X="-0.35" Y="1.055651275023" Z="-0.538588646413" W="1" />
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
@@ -10394,7 +8986,10 @@
       <SourceFileTime HighPart="0" LowPart="0" />
       <ComponentType Value="Part" />
       <ClipPlane ID="-1" />
-      <Skeleton />
+      <Skeleton>
+        <Bones />
+        <InverseBindMatrices />
+      </Skeleton>
       <PhysicsMaterial SurfaceViscosity="5E-09" SurfaceRoughness="0.7" SurfaceAdhesion="0" SurfaceAdhesionOverlap="0" Density="7800" Damping="0.05" PoissonsRatio="0.3" Restitution="0.5" YoungsModulus="200000000000" CableDamping="0" CableYoungsModulus="0" />
       <PhysicsGeometry UseOriginal="false" />
       <PhysicsSurfaceVelocity Speed="0" Enabled="false">
@@ -10420,10 +9015,7 @@
         <ObjectRef ID="4872" />
         <ObjectRef ID="4752" />
         <ObjectRef ID="4767" />
-        <ObjectRef ID="4782" />
-        <ObjectRef ID="4797" />
-        <ObjectRef ID="4812" />
-        <ObjectRef ID="4827" />
+        <ObjectRef ID="5145" />
         <ObjectRef ID="4842" />
         <ObjectRef ID="4857" />
         <ObjectRef ID="4886" />
@@ -10505,150 +9097,6 @@
     <RoutineArgument ID="4779" Name="WObj" Parent="4768" Value="Workobject_1" />
     <RoutineArgument ID="4780" Name="Corr" Parent="4768" Enabled="false" />
     <RoutineArgument ID="4781" Name="TLoad" Parent="4768" Enabled="false" />
-    <MoveInstructionCall ID="4782" Name="MoveL" Parent="4750" Thickness="2" Reachable="1">
-      <ArgumentList ID="4783" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4783" Name="" Parent="4782">
-      <RoutineArguments>
-        <ObjectRef ID="4784" />
-        <ObjectRef ID="4785" />
-        <ObjectRef ID="4786" />
-        <ObjectRef ID="4787" />
-        <ObjectRef ID="4788" />
-        <ObjectRef ID="4789" />
-        <ObjectRef ID="4790" />
-        <ObjectRef ID="4791" />
-        <ObjectRef ID="4792" />
-        <ObjectRef ID="4793" />
-        <ObjectRef ID="4794" />
-        <ObjectRef ID="4795" />
-        <ObjectRef ID="4796" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4784" Name="Conc" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4785" Name="ToPoint" Parent="4783" Value="Target_330" />
-    <RoutineArgument ID="4786" Name="ID" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4787" Name="Speed" Parent="4783" Value="v200" />
-    <RoutineArgument ID="4788" Name="V" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4789" Name="T" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4790" Name="Zone" Parent="4783" Value="z5" />
-    <RoutineArgument ID="4791" Name="Z" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4792" Name="Inpos" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4793" Name="Tool" Parent="4783" Value="THerramienta" />
-    <RoutineArgument ID="4794" Name="WObj" Parent="4783" Value="Workobject_1" />
-    <RoutineArgument ID="4795" Name="Corr" Parent="4783" Enabled="false" />
-    <RoutineArgument ID="4796" Name="TLoad" Parent="4783" Enabled="false" />
-    <MoveInstructionCall ID="4797" Name="MoveL" Parent="4750" Thickness="2" Reachable="1">
-      <ArgumentList ID="4798" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4798" Name="" Parent="4797">
-      <RoutineArguments>
-        <ObjectRef ID="4799" />
-        <ObjectRef ID="4800" />
-        <ObjectRef ID="4801" />
-        <ObjectRef ID="4802" />
-        <ObjectRef ID="4803" />
-        <ObjectRef ID="4804" />
-        <ObjectRef ID="4805" />
-        <ObjectRef ID="4806" />
-        <ObjectRef ID="4807" />
-        <ObjectRef ID="4808" />
-        <ObjectRef ID="4809" />
-        <ObjectRef ID="4810" />
-        <ObjectRef ID="4811" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4799" Name="Conc" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4800" Name="ToPoint" Parent="4798" Value="Target_340" />
-    <RoutineArgument ID="4801" Name="ID" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4802" Name="Speed" Parent="4798" Value="v200" />
-    <RoutineArgument ID="4803" Name="V" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4804" Name="T" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4805" Name="Zone" Parent="4798" Value="z5" />
-    <RoutineArgument ID="4806" Name="Z" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4807" Name="Inpos" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4808" Name="Tool" Parent="4798" Value="THerramienta" />
-    <RoutineArgument ID="4809" Name="WObj" Parent="4798" Value="Workobject_1" />
-    <RoutineArgument ID="4810" Name="Corr" Parent="4798" Enabled="false" />
-    <RoutineArgument ID="4811" Name="TLoad" Parent="4798" Enabled="false" />
-    <MoveInstructionCall ID="4812" Name="MoveL" Parent="4750" Thickness="2" Reachable="1">
-      <ArgumentList ID="4813" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4813" Name="" Parent="4812">
-      <RoutineArguments>
-        <ObjectRef ID="4814" />
-        <ObjectRef ID="4815" />
-        <ObjectRef ID="4816" />
-        <ObjectRef ID="4817" />
-        <ObjectRef ID="4818" />
-        <ObjectRef ID="4819" />
-        <ObjectRef ID="4820" />
-        <ObjectRef ID="4821" />
-        <ObjectRef ID="4822" />
-        <ObjectRef ID="4823" />
-        <ObjectRef ID="4824" />
-        <ObjectRef ID="4825" />
-        <ObjectRef ID="4826" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4814" Name="Conc" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4815" Name="ToPoint" Parent="4813" Value="Target_350" />
-    <RoutineArgument ID="4816" Name="ID" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4817" Name="Speed" Parent="4813" Value="v200" />
-    <RoutineArgument ID="4818" Name="V" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4819" Name="T" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4820" Name="Zone" Parent="4813" Value="z5" />
-    <RoutineArgument ID="4821" Name="Z" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4822" Name="Inpos" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4823" Name="Tool" Parent="4813" Value="THerramienta" />
-    <RoutineArgument ID="4824" Name="WObj" Parent="4813" Value="Workobject_1" />
-    <RoutineArgument ID="4825" Name="Corr" Parent="4813" Enabled="false" />
-    <RoutineArgument ID="4826" Name="TLoad" Parent="4813" Enabled="false" />
-    <MoveInstructionCall ID="4827" Name="MoveL" Parent="4750" Thickness="2" Reachable="1">
-      <ArgumentList ID="4828" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4828" Name="" Parent="4827">
-      <RoutineArguments>
-        <ObjectRef ID="4829" />
-        <ObjectRef ID="4830" />
-        <ObjectRef ID="4831" />
-        <ObjectRef ID="4832" />
-        <ObjectRef ID="4833" />
-        <ObjectRef ID="4834" />
-        <ObjectRef ID="4835" />
-        <ObjectRef ID="4836" />
-        <ObjectRef ID="4837" />
-        <ObjectRef ID="4838" />
-        <ObjectRef ID="4839" />
-        <ObjectRef ID="4840" />
-        <ObjectRef ID="4841" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4829" Name="Conc" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4830" Name="ToPoint" Parent="4828" Value="Target_360" />
-    <RoutineArgument ID="4831" Name="ID" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4832" Name="Speed" Parent="4828" Value="v200" />
-    <RoutineArgument ID="4833" Name="V" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4834" Name="T" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4835" Name="Zone" Parent="4828" Value="z5" />
-    <RoutineArgument ID="4836" Name="Z" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4837" Name="Inpos" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4838" Name="Tool" Parent="4828" Value="THerramienta" />
-    <RoutineArgument ID="4839" Name="WObj" Parent="4828" Value="Workobject_1" />
-    <RoutineArgument ID="4840" Name="Corr" Parent="4828" Enabled="false" />
-    <RoutineArgument ID="4841" Name="TLoad" Parent="4828" Enabled="false" />
     <MoveInstructionCall ID="4842" Name="MoveL" Parent="4750" Thickness="2" Reachable="1">
       <ArgumentList ID="4843" />
       <GroupName Value="Move" />
@@ -10869,123 +9317,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="4907" Name="Target_330" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.98031931597308,0.960310635721364,0.261226278908619,-2.53397324672873,0.475009414737874,2.86165861209261" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4908" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[185.355339059,275.355339059,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4908" Name="" Parent="4907" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4909" Name="Target_330" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4907" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.707106780080291" Y="0.707106782292804" Z="0" W="0" />
-        <RowY X="-0.707106782292804" Y="-0.707106780080291" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.185355339059" Y="0.275355339059" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4910" Name="Target_340" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.98172883233359,0.926535433526653,0.380934591443947,-2.61436208855328,0.547777656203958,2.95530510008229" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4911" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[150,290,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4911" Name="" Parent="4910" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4912" Name="Target_340" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4910" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-1" Y="0" Z="0" W="0" />
-        <RowY X="0" Y="-1" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.15" Y="0.29" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="4913" Name="Target_350" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="2.04568056872944,0.908429559950372,0.457804589903027,-2.57942655803835,0.605700938013255,2.98786115742106" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="4914" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[114.644660941,275.355339059,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="4914" Name="" Parent="4913" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="4915" Name="Target_350" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="4913" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="-0.707106780080291" Y="-0.707106782292804" Z="0" W="0" />
-        <RowY X="0.707106782292804" Y="-0.707106780080291" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.114644660941" Y="0.275355339059" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="4916" Name="Target_360" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -11190,11 +9521,7 @@
       <RoutineCalls>
         <ObjectRef ID="5032" />
         <ObjectRef ID="4942" />
-        <ObjectRef ID="4957" />
-        <ObjectRef ID="4972" />
-        <ObjectRef ID="4987" />
-        <ObjectRef ID="5002" />
-        <ObjectRef ID="5017" />
+        <ObjectRef ID="5215" />
         <ObjectRef ID="5047" />
         <ObjectRef ID="5062" />
       </RoutineCalls>
@@ -11239,186 +9566,6 @@
     <RoutineArgument ID="4954" Name="WObj" Parent="4943" Value="Workobject_1" />
     <RoutineArgument ID="4955" Name="Corr" Parent="4943" Enabled="false" />
     <RoutineArgument ID="4956" Name="TLoad" Parent="4943" Enabled="false" />
-    <MoveInstructionCall ID="4957" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
-      <ArgumentList ID="4958" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4958" Name="" Parent="4957">
-      <RoutineArguments>
-        <ObjectRef ID="4959" />
-        <ObjectRef ID="4960" />
-        <ObjectRef ID="4961" />
-        <ObjectRef ID="4962" />
-        <ObjectRef ID="4963" />
-        <ObjectRef ID="4964" />
-        <ObjectRef ID="4965" />
-        <ObjectRef ID="4966" />
-        <ObjectRef ID="4967" />
-        <ObjectRef ID="4968" />
-        <ObjectRef ID="4969" />
-        <ObjectRef ID="4970" />
-        <ObjectRef ID="4971" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4959" Name="Conc" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4960" Name="ToPoint" Parent="4958" Value="Target_400" />
-    <RoutineArgument ID="4961" Name="ID" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4962" Name="Speed" Parent="4958" Value="v200" />
-    <RoutineArgument ID="4963" Name="V" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4964" Name="T" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4965" Name="Zone" Parent="4958" Value="z5" />
-    <RoutineArgument ID="4966" Name="Z" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4967" Name="Inpos" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4968" Name="Tool" Parent="4958" Value="THerramienta" />
-    <RoutineArgument ID="4969" Name="WObj" Parent="4958" Value="Workobject_1" />
-    <RoutineArgument ID="4970" Name="Corr" Parent="4958" Enabled="false" />
-    <RoutineArgument ID="4971" Name="TLoad" Parent="4958" Enabled="false" />
-    <MoveInstructionCall ID="4972" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
-      <ArgumentList ID="4973" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4973" Name="" Parent="4972">
-      <RoutineArguments>
-        <ObjectRef ID="4974" />
-        <ObjectRef ID="4975" />
-        <ObjectRef ID="4976" />
-        <ObjectRef ID="4977" />
-        <ObjectRef ID="4978" />
-        <ObjectRef ID="4979" />
-        <ObjectRef ID="4980" />
-        <ObjectRef ID="4981" />
-        <ObjectRef ID="4982" />
-        <ObjectRef ID="4983" />
-        <ObjectRef ID="4984" />
-        <ObjectRef ID="4985" />
-        <ObjectRef ID="4986" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4974" Name="Conc" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4975" Name="ToPoint" Parent="4973" Value="Target_410" />
-    <RoutineArgument ID="4976" Name="ID" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4977" Name="Speed" Parent="4973" Value="v200" />
-    <RoutineArgument ID="4978" Name="V" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4979" Name="T" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4980" Name="Zone" Parent="4973" Value="z5" />
-    <RoutineArgument ID="4981" Name="Z" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4982" Name="Inpos" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4983" Name="Tool" Parent="4973" Value="THerramienta" />
-    <RoutineArgument ID="4984" Name="WObj" Parent="4973" Value="Workobject_1" />
-    <RoutineArgument ID="4985" Name="Corr" Parent="4973" Enabled="false" />
-    <RoutineArgument ID="4986" Name="TLoad" Parent="4973" Enabled="false" />
-    <MoveInstructionCall ID="4987" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
-      <ArgumentList ID="4988" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="4988" Name="" Parent="4987">
-      <RoutineArguments>
-        <ObjectRef ID="4989" />
-        <ObjectRef ID="4990" />
-        <ObjectRef ID="4991" />
-        <ObjectRef ID="4992" />
-        <ObjectRef ID="4993" />
-        <ObjectRef ID="4994" />
-        <ObjectRef ID="4995" />
-        <ObjectRef ID="4996" />
-        <ObjectRef ID="4997" />
-        <ObjectRef ID="4998" />
-        <ObjectRef ID="4999" />
-        <ObjectRef ID="5000" />
-        <ObjectRef ID="5001" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="4989" Name="Conc" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4990" Name="ToPoint" Parent="4988" Value="Target_420" />
-    <RoutineArgument ID="4991" Name="ID" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4992" Name="Speed" Parent="4988" Value="v200" />
-    <RoutineArgument ID="4993" Name="V" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4994" Name="T" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4995" Name="Zone" Parent="4988" Value="z5" />
-    <RoutineArgument ID="4996" Name="Z" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4997" Name="Inpos" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="4998" Name="Tool" Parent="4988" Value="THerramienta" />
-    <RoutineArgument ID="4999" Name="WObj" Parent="4988" Value="Workobject_1" />
-    <RoutineArgument ID="5000" Name="Corr" Parent="4988" Enabled="false" />
-    <RoutineArgument ID="5001" Name="TLoad" Parent="4988" Enabled="false" />
-    <MoveInstructionCall ID="5002" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
-      <ArgumentList ID="5003" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="5003" Name="" Parent="5002">
-      <RoutineArguments>
-        <ObjectRef ID="5004" />
-        <ObjectRef ID="5005" />
-        <ObjectRef ID="5006" />
-        <ObjectRef ID="5007" />
-        <ObjectRef ID="5008" />
-        <ObjectRef ID="5009" />
-        <ObjectRef ID="5010" />
-        <ObjectRef ID="5011" />
-        <ObjectRef ID="5012" />
-        <ObjectRef ID="5013" />
-        <ObjectRef ID="5014" />
-        <ObjectRef ID="5015" />
-        <ObjectRef ID="5016" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="5004" Name="Conc" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5005" Name="ToPoint" Parent="5003" Value="Target_430" />
-    <RoutineArgument ID="5006" Name="ID" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5007" Name="Speed" Parent="5003" Value="v200" />
-    <RoutineArgument ID="5008" Name="V" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5009" Name="T" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5010" Name="Zone" Parent="5003" Value="z5" />
-    <RoutineArgument ID="5011" Name="Z" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5012" Name="Inpos" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5013" Name="Tool" Parent="5003" Value="THerramienta" />
-    <RoutineArgument ID="5014" Name="WObj" Parent="5003" Value="Workobject_1" />
-    <RoutineArgument ID="5015" Name="Corr" Parent="5003" Enabled="false" />
-    <RoutineArgument ID="5016" Name="TLoad" Parent="5003" Enabled="false" />
-    <MoveInstructionCall ID="5017" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
-      <ArgumentList ID="5018" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="5018" Name="" Parent="5017">
-      <RoutineArguments>
-        <ObjectRef ID="5019" />
-        <ObjectRef ID="5020" />
-        <ObjectRef ID="5021" />
-        <ObjectRef ID="5022" />
-        <ObjectRef ID="5023" />
-        <ObjectRef ID="5024" />
-        <ObjectRef ID="5025" />
-        <ObjectRef ID="5026" />
-        <ObjectRef ID="5027" />
-        <ObjectRef ID="5028" />
-        <ObjectRef ID="5029" />
-        <ObjectRef ID="5030" />
-        <ObjectRef ID="5031" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="5019" Name="Conc" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5020" Name="ToPoint" Parent="5018" Value="Target_440" />
-    <RoutineArgument ID="5021" Name="ID" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5022" Name="Speed" Parent="5018" Value="v200" />
-    <RoutineArgument ID="5023" Name="V" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5024" Name="T" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5025" Name="Zone" Parent="5018" Value="z5" />
-    <RoutineArgument ID="5026" Name="Z" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5027" Name="Inpos" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5028" Name="Tool" Parent="5018" Value="THerramienta" />
-    <RoutineArgument ID="5029" Name="WObj" Parent="5018" Value="Workobject_1" />
-    <RoutineArgument ID="5030" Name="Corr" Parent="5018" Enabled="false" />
-    <RoutineArgument ID="5031" Name="TLoad" Parent="5018" Enabled="false" />
     <MoveInstructionCall ID="5032" Name="MoveL" Parent="4940" Thickness="2" Reachable="1">
       <ArgumentList ID="5033" />
       <GroupName Value="Move" />
@@ -11564,162 +9711,6 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="5079" Name="Target_400" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.87991175756013,0.888193607640709,0.57435285589774,-2.82880389508886,0.681809423256134,3.09455992189719" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="5080" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[103.164813866,353.691159257,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="5080" Name="" Parent="5079" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="5081" Name="Target_400" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="5079" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.350123029391437" Y="-0.936703722790597" Z="0" W="0" />
-        <RowY X="0.936703722790597" Y="0.350123029391437" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.103164813866" Y="0.353691159257" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="5082" Name="Target_410" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.92424093332927,0.904929810435012,0.474582277998535,-2.73788767680292,0.606356594886626,3.03577553984707" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="5083" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[130.328264565,325.22968273,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="5083" Name="" Parent="5082" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="5084" Name="Target_410" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="5082" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.919352560212708" Y="-0.393434708726035" Z="0" W="0" />
-        <RowY X="0.393434708726035" Y="0.919352560212708" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.130328264565" Y="0.32522968273" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="5085" Name="Target_420" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.89478945431684,0.931071660870634,0.363484304123662,-2.72294452964063,0.52573801127776,2.98414052437153" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="5086" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[169.671735435,325.22968273,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="5086" Name="" Parent="5085" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="5087" Name="Target_420" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="5085" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.919352560212708" Y="0.393434708726035" Z="0" W="0" />
-        <RowY X="-0.393434708726035" Y="0.919352560212708" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.169671735435" Y="0.32522968273" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
-    <DataDeclaration ID="5088" Name="Target_430" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
-      <Attributes>
-        <Attribute Key="ConfigDataAssigned">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-        <Attribute Key="jointvalues">
-          <Value>
-            <String Value="1.82056791492606,0.94655320030152,0.30749654852894,-2.80338592040832,0.480111643692198,2.99491296711657" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <DeclarationInfo ID="5089" />
-      <RoutineName Value="" />
-      <InitialExpression Value="[[196.835186134,353.691159257,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
-    </DataDeclaration>
-    <RAPIDDeclarationInfo ID="5089" Name="" Parent="5088" Local="false" EnableSync="true">
-      <TaskName Value="" />
-      <ModuleName Value="Module1" />
-    </RAPIDDeclarationInfo>
-    <Target ID="5090" Name="Target_430" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Attributes>
-        <Attribute Key="GfxObject.Invisible">
-          <Value>
-            <Integer Value="1" />
-          </Value>
-        </Attribute>
-      </Attributes>
-      <Robtarget ID="5088" />
-      <Workobject ID="4142" />
-      <ReferenceFrame>
-        <RowX X="0.350123029391437" Y="0.936703722790597" Z="0" W="0" />
-        <RowY X="-0.936703722790597" Y="0.350123029391437" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="0.196835186134" Y="0.353691159257" Z="0" W="1" />
-      </ReferenceFrame>
-      <Color Red="0" Green="0" Blue="0" Alpha="0" />
-    </Target>
     <DataDeclaration ID="5091" Name="Target_440" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -11835,7 +9826,7 @@
       <Workobject ID="4142" />
       <ReferenceFrame>
         <RowX X="-0.233691439680367" Y="-0.889976722745036" Z="0.391573420946982" W="0" />
-        <RowY X="0.75935898296726" Y="0.0844675611951981" Z="0.645165998865923" W="0" />
+        <RowY X="0.75935898296726" Y="0.0844675611951979" Z="0.645165998865923" W="0" />
         <RowZ X="-0.607257973193474" Y="0.448114565795111" Z="0.65607247306621" W="0" />
         <RowT X="-0.410514648889" Y="1.245713795009" Z="-0.649374024814" W="1" />
       </ReferenceFrame>
@@ -11925,9 +9916,774 @@
       </RoutineArguments>
     </RoutineArgumentList>
     <RoutineArgument ID="5129" Name="Signal" Parent="5128" Value="DO_02" />
+    <MoveInstructionCall ID="5145" Name="MoveC" Parent="4750" Thickness="2" Reachable="1">
+      <ArgumentList ID="5146" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5146" Name="" Parent="5145">
+      <RoutineArguments>
+        <ObjectRef ID="5147" />
+        <ObjectRef ID="5148" />
+        <ObjectRef ID="5149" />
+        <ObjectRef ID="5150" />
+        <ObjectRef ID="5151" />
+        <ObjectRef ID="5152" />
+        <ObjectRef ID="5153" />
+        <ObjectRef ID="5154" />
+        <ObjectRef ID="5155" />
+        <ObjectRef ID="5156" />
+        <ObjectRef ID="5157" />
+        <ObjectRef ID="5158" />
+        <ObjectRef ID="5159" />
+        <ObjectRef ID="5160" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5147" Name="Conc" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5148" Name="CirPoint" Parent="5146" Value="Target_355" />
+    <RoutineArgument ID="5149" Name="ToPoint" Parent="5146" Value="Target_360" />
+    <RoutineArgument ID="5150" Name="ID" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5151" Name="Speed" Parent="5146" Value="v200" />
+    <RoutineArgument ID="5152" Name="V" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5153" Name="T" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5154" Name="Zone" Parent="5146" Value="z5" />
+    <RoutineArgument ID="5155" Name="Z" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5156" Name="Inpos" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5157" Name="Tool" Parent="5146" Value="THerramienta" />
+    <RoutineArgument ID="5158" Name="WObj" Parent="5146" Value="Workobject_1" />
+    <RoutineArgument ID="5159" Name="Corr" Parent="5146" Enabled="false" />
+    <RoutineArgument ID="5160" Name="TLoad" Parent="5146" Enabled="false" />
+    <DataDeclaration ID="5161" Name="Target_355" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="1.98172879219055,0.926535487174988,0.380934536457062,-2.61436200141907,0.547777652740479,2.9553050994873" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5162" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[150,290,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5162" Name="" Parent="5161" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5163" Name="Target_355" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5161" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.15" Y="0.29" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5164" Name="Target_25" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.3324887752533,0.966779708862305,0.240335017442703,-2.04268670082092,0.558167159557343,2.67697477340698" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5165" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[94.179,126.363,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5165" Name="" Parent="5164" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5166" Name="Target_25" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5164" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.094179" Y="0.126363" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <MoveInstructionCall ID="5167" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5168" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5168" Name="" Parent="5167">
+      <RoutineArguments>
+        <ObjectRef ID="5169" />
+        <ObjectRef ID="5170" />
+        <ObjectRef ID="5171" />
+        <ObjectRef ID="5172" />
+        <ObjectRef ID="5173" />
+        <ObjectRef ID="5174" />
+        <ObjectRef ID="5175" />
+        <ObjectRef ID="5176" />
+        <ObjectRef ID="5177" />
+        <ObjectRef ID="5178" />
+        <ObjectRef ID="5179" />
+        <ObjectRef ID="5180" />
+        <ObjectRef ID="5181" />
+        <ObjectRef ID="5182" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5169" Name="Conc" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5170" Name="CirPoint" Parent="5168" Value="Target_15" />
+    <RoutineArgument ID="5171" Name="ToPoint" Parent="5168" Value="Target_25" />
+    <RoutineArgument ID="5172" Name="ID" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5173" Name="Speed" Parent="5168" Value="v200" />
+    <RoutineArgument ID="5174" Name="V" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5175" Name="T" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5176" Name="Zone" Parent="5168" Value="z5" />
+    <RoutineArgument ID="5177" Name="Z" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5178" Name="Inpos" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5179" Name="Tool" Parent="5168" Value="THerramienta" />
+    <RoutineArgument ID="5180" Name="WObj" Parent="5168" Value="Workobject_1" />
+    <RoutineArgument ID="5181" Name="Corr" Parent="5168" Enabled="false" />
+    <RoutineArgument ID="5182" Name="TLoad" Parent="5168" Enabled="false" />
+    <MoveInstructionCall ID="5183" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5184" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5184" Name="" Parent="5183">
+      <RoutineArguments>
+        <ObjectRef ID="5185" />
+        <ObjectRef ID="5186" />
+        <ObjectRef ID="5187" />
+        <ObjectRef ID="5188" />
+        <ObjectRef ID="5189" />
+        <ObjectRef ID="5190" />
+        <ObjectRef ID="5191" />
+        <ObjectRef ID="5192" />
+        <ObjectRef ID="5193" />
+        <ObjectRef ID="5194" />
+        <ObjectRef ID="5195" />
+        <ObjectRef ID="5196" />
+        <ObjectRef ID="5197" />
+        <ObjectRef ID="5198" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5185" Name="Conc" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5186" Name="CirPoint" Parent="5184" Value="Target_28" />
+    <RoutineArgument ID="5187" Name="ToPoint" Parent="5184" Value="Target_50" />
+    <RoutineArgument ID="5188" Name="ID" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5189" Name="Speed" Parent="5184" Value="v200" />
+    <RoutineArgument ID="5190" Name="V" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5191" Name="T" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5192" Name="Zone" Parent="5184" Value="z0" />
+    <RoutineArgument ID="5193" Name="Z" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5194" Name="Inpos" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5195" Name="Tool" Parent="5184" Value="THerramienta" />
+    <RoutineArgument ID="5196" Name="WObj" Parent="5184" Value="Workobject_1" />
+    <RoutineArgument ID="5197" Name="Corr" Parent="5184" Enabled="false" />
+    <RoutineArgument ID="5198" Name="TLoad" Parent="5184" Enabled="false" />
+    <MoveInstructionCall ID="5199" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5200" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5200" Name="" Parent="5199">
+      <RoutineArguments>
+        <ObjectRef ID="5201" />
+        <ObjectRef ID="5202" />
+        <ObjectRef ID="5203" />
+        <ObjectRef ID="5204" />
+        <ObjectRef ID="5205" />
+        <ObjectRef ID="5206" />
+        <ObjectRef ID="5207" />
+        <ObjectRef ID="5208" />
+        <ObjectRef ID="5209" />
+        <ObjectRef ID="5210" />
+        <ObjectRef ID="5211" />
+        <ObjectRef ID="5212" />
+        <ObjectRef ID="5213" />
+        <ObjectRef ID="5214" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5201" Name="Conc" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5202" Name="CirPoint" Parent="5200" Value="Target_240" />
+    <RoutineArgument ID="5203" Name="ToPoint" Parent="5200" Value="Target_250" />
+    <RoutineArgument ID="5204" Name="ID" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5205" Name="Speed" Parent="5200" Value="v200" />
+    <RoutineArgument ID="5206" Name="V" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5207" Name="T" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5208" Name="Zone" Parent="5200" Value="z5" />
+    <RoutineArgument ID="5209" Name="Z" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5210" Name="Inpos" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5211" Name="Tool" Parent="5200" Value="THerramienta" />
+    <RoutineArgument ID="5212" Name="WObj" Parent="5200" Value="Workobject_1" />
+    <RoutineArgument ID="5213" Name="Corr" Parent="5200" Enabled="false" />
+    <RoutineArgument ID="5214" Name="TLoad" Parent="5200" Enabled="false" />
+    <MoveInstructionCall ID="5215" Name="MoveC" Parent="4940" Thickness="2" Reachable="1">
+      <ArgumentList ID="5216" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5216" Name="" Parent="5215">
+      <RoutineArguments>
+        <ObjectRef ID="5217" />
+        <ObjectRef ID="5218" />
+        <ObjectRef ID="5219" />
+        <ObjectRef ID="5220" />
+        <ObjectRef ID="5221" />
+        <ObjectRef ID="5222" />
+        <ObjectRef ID="5223" />
+        <ObjectRef ID="5224" />
+        <ObjectRef ID="5225" />
+        <ObjectRef ID="5226" />
+        <ObjectRef ID="5227" />
+        <ObjectRef ID="5228" />
+        <ObjectRef ID="5229" />
+        <ObjectRef ID="5230" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5217" Name="Conc" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5218" Name="CirPoint" Parent="5216" Value="Target_395" />
+    <RoutineArgument ID="5219" Name="ToPoint" Parent="5216" Value="Target_440" />
+    <RoutineArgument ID="5220" Name="ID" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5221" Name="Speed" Parent="5216" Value="v200" />
+    <RoutineArgument ID="5222" Name="V" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5223" Name="T" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5224" Name="Zone" Parent="5216" Value="z5" />
+    <RoutineArgument ID="5225" Name="Z" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5226" Name="Inpos" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5227" Name="Tool" Parent="5216" Value="THerramienta" />
+    <RoutineArgument ID="5228" Name="WObj" Parent="5216" Value="Workobject_1" />
+    <RoutineArgument ID="5229" Name="Corr" Parent="5216" Enabled="false" />
+    <RoutineArgument ID="5230" Name="TLoad" Parent="5216" Enabled="false" />
+    <DataDeclaration ID="5231" Name="Target_15" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.24021458625793,0.971327602863312,0.225929796695709,-2.14211964607239,0.524441540241241,2.69254684448242" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5232" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[127.992,158.531,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5232" Name="" Parent="5231" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5233" Name="Target_15" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5231" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.127992" Y="0.158531" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5234" Name="Target_28" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.40619277954102,0.990469932556152,0.167453870177269,-1.88523900508881,0.565114736557007,2.57160711288452" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5235" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[82.508,84.221,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5235" Name="" Parent="5234" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5236" Name="Target_28" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5234" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.082508" Y="0.084221" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5237" Name="Target_395" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="1.91744494438171,0.917922616004944,0.415812253952026,-2.7187716960907,0.563848614692688,3.00488519668579" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5238" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[150,321.197,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5238" Name="" Parent="5237" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5239" Name="Target_395" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5237" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.15" Y="0.321197" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <MoveInstructionCall ID="5240" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5241" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5241" Name="" Parent="5240">
+      <RoutineArguments>
+        <ObjectRef ID="5242" />
+        <ObjectRef ID="5243" />
+        <ObjectRef ID="5244" />
+        <ObjectRef ID="5245" />
+        <ObjectRef ID="5246" />
+        <ObjectRef ID="5247" />
+        <ObjectRef ID="5248" />
+        <ObjectRef ID="5249" />
+        <ObjectRef ID="5250" />
+        <ObjectRef ID="5251" />
+        <ObjectRef ID="5252" />
+        <ObjectRef ID="5253" />
+        <ObjectRef ID="5254" />
+        <ObjectRef ID="5255" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5242" Name="Conc" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5243" Name="CirPoint" Parent="5241" Value="Target_55" />
+    <RoutineArgument ID="5244" Name="ToPoint" Parent="5241" Value="Target_60" />
+    <RoutineArgument ID="5245" Name="ID" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5246" Name="Speed" Parent="5241" Value="v200" />
+    <RoutineArgument ID="5247" Name="V" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5248" Name="T" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5249" Name="Zone" Parent="5241" Value="z0" />
+    <RoutineArgument ID="5250" Name="Z" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5251" Name="Inpos" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5252" Name="Tool" Parent="5241" Value="THerramienta" />
+    <RoutineArgument ID="5253" Name="WObj" Parent="5241" Value="Workobject_1" />
+    <RoutineArgument ID="5254" Name="Corr" Parent="5241" Enabled="false" />
+    <RoutineArgument ID="5255" Name="TLoad" Parent="5241" Enabled="false" />
+    <MoveInstructionCall ID="5256" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5257" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5257" Name="" Parent="5256">
+      <RoutineArguments>
+        <ObjectRef ID="5258" />
+        <ObjectRef ID="5259" />
+        <ObjectRef ID="5260" />
+        <ObjectRef ID="5261" />
+        <ObjectRef ID="5262" />
+        <ObjectRef ID="5263" />
+        <ObjectRef ID="5264" />
+        <ObjectRef ID="5265" />
+        <ObjectRef ID="5266" />
+        <ObjectRef ID="5267" />
+        <ObjectRef ID="5268" />
+        <ObjectRef ID="5269" />
+        <ObjectRef ID="5270" />
+        <ObjectRef ID="5271" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5258" Name="Conc" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5259" Name="CirPoint" Parent="5257" Value="Target_80" />
+    <RoutineArgument ID="5260" Name="ToPoint" Parent="5257" Value="Target_110" />
+    <RoutineArgument ID="5261" Name="ID" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5262" Name="Speed" Parent="5257" Value="v200" />
+    <RoutineArgument ID="5263" Name="V" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5264" Name="T" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5265" Name="Zone" Parent="5257" Value="z0" />
+    <RoutineArgument ID="5266" Name="Z" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5267" Name="Inpos" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5268" Name="Tool" Parent="5257" Value="THerramienta" />
+    <RoutineArgument ID="5269" Name="WObj" Parent="5257" Value="Workobject_1" />
+    <RoutineArgument ID="5270" Name="Corr" Parent="5257" Enabled="false" />
+    <RoutineArgument ID="5271" Name="TLoad" Parent="5257" Enabled="false" />
+    <MoveInstructionCall ID="5272" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5273" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5273" Name="" Parent="5272">
+      <RoutineArguments>
+        <ObjectRef ID="5274" />
+        <ObjectRef ID="5275" />
+        <ObjectRef ID="5276" />
+        <ObjectRef ID="5277" />
+        <ObjectRef ID="5278" />
+        <ObjectRef ID="5279" />
+        <ObjectRef ID="5280" />
+        <ObjectRef ID="5281" />
+        <ObjectRef ID="5282" />
+        <ObjectRef ID="5283" />
+        <ObjectRef ID="5284" />
+        <ObjectRef ID="5285" />
+        <ObjectRef ID="5286" />
+        <ObjectRef ID="5287" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5274" Name="Conc" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5275" Name="CirPoint" Parent="5273" Value="Target_115" />
+    <RoutineArgument ID="5276" Name="ToPoint" Parent="5273" Value="Target_120" />
+    <RoutineArgument ID="5277" Name="ID" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5278" Name="Speed" Parent="5273" Value="v200" />
+    <RoutineArgument ID="5279" Name="V" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5280" Name="T" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5281" Name="Zone" Parent="5273" Value="z0" />
+    <RoutineArgument ID="5282" Name="Z" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5283" Name="Inpos" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5284" Name="Tool" Parent="5273" Value="THerramienta" />
+    <RoutineArgument ID="5285" Name="WObj" Parent="5273" Value="Workobject_1" />
+    <RoutineArgument ID="5286" Name="Corr" Parent="5273" Enabled="false" />
+    <RoutineArgument ID="5287" Name="TLoad" Parent="5273" Enabled="false" />
+    <MoveInstructionCall ID="5288" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5289" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5289" Name="" Parent="5288">
+      <RoutineArguments>
+        <ObjectRef ID="5290" />
+        <ObjectRef ID="5291" />
+        <ObjectRef ID="5292" />
+        <ObjectRef ID="5293" />
+        <ObjectRef ID="5294" />
+        <ObjectRef ID="5295" />
+        <ObjectRef ID="5296" />
+        <ObjectRef ID="5297" />
+        <ObjectRef ID="5298" />
+        <ObjectRef ID="5299" />
+        <ObjectRef ID="5300" />
+        <ObjectRef ID="5301" />
+        <ObjectRef ID="5302" />
+        <ObjectRef ID="5303" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5290" Name="Conc" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5291" Name="CirPoint" Parent="5289" Value="Target_125" />
+    <RoutineArgument ID="5292" Name="ToPoint" Parent="5289" Value="Target_150" />
+    <RoutineArgument ID="5293" Name="ID" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5294" Name="Speed" Parent="5289" Value="v200" />
+    <RoutineArgument ID="5295" Name="V" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5296" Name="T" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5297" Name="Zone" Parent="5289" Value="z0" />
+    <RoutineArgument ID="5298" Name="Z" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5299" Name="Inpos" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5300" Name="Tool" Parent="5289" Value="THerramienta" />
+    <RoutineArgument ID="5301" Name="WObj" Parent="5289" Value="Workobject_1" />
+    <RoutineArgument ID="5302" Name="Corr" Parent="5289" Enabled="false" />
+    <RoutineArgument ID="5303" Name="TLoad" Parent="5289" Enabled="false" />
+    <MoveInstructionCall ID="5304" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5305" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5305" Name="" Parent="5304">
+      <RoutineArguments>
+        <ObjectRef ID="5306" />
+        <ObjectRef ID="5307" />
+        <ObjectRef ID="5308" />
+        <ObjectRef ID="5309" />
+        <ObjectRef ID="5310" />
+        <ObjectRef ID="5311" />
+        <ObjectRef ID="5312" />
+        <ObjectRef ID="5313" />
+        <ObjectRef ID="5314" />
+        <ObjectRef ID="5315" />
+        <ObjectRef ID="5316" />
+        <ObjectRef ID="5317" />
+        <ObjectRef ID="5318" />
+        <ObjectRef ID="5319" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5306" Name="Conc" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5307" Name="CirPoint" Parent="5305" Value="Target_180" />
+    <RoutineArgument ID="5308" Name="ToPoint" Parent="5305" Value="Target_160" />
+    <RoutineArgument ID="5309" Name="ID" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5310" Name="Speed" Parent="5305" Value="v200" />
+    <RoutineArgument ID="5311" Name="V" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5312" Name="T" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5313" Name="Zone" Parent="5305" Value="z5" />
+    <RoutineArgument ID="5314" Name="Z" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5315" Name="Inpos" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5316" Name="Tool" Parent="5305" Value="THerramienta" />
+    <RoutineArgument ID="5317" Name="WObj" Parent="5305" Value="Workobject_1" />
+    <RoutineArgument ID="5318" Name="Corr" Parent="5305" Enabled="false" />
+    <RoutineArgument ID="5319" Name="TLoad" Parent="5305" Enabled="false" />
+    <MoveInstructionCall ID="5320" Name="MoveC" Parent="4144" Thickness="2" Reachable="1">
+      <ArgumentList ID="5321" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5321" Name="" Parent="5320">
+      <RoutineArguments>
+        <ObjectRef ID="5322" />
+        <ObjectRef ID="5323" />
+        <ObjectRef ID="5324" />
+        <ObjectRef ID="5325" />
+        <ObjectRef ID="5326" />
+        <ObjectRef ID="5327" />
+        <ObjectRef ID="5328" />
+        <ObjectRef ID="5329" />
+        <ObjectRef ID="5330" />
+        <ObjectRef ID="5331" />
+        <ObjectRef ID="5332" />
+        <ObjectRef ID="5333" />
+        <ObjectRef ID="5334" />
+        <ObjectRef ID="5335" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5322" Name="Conc" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5323" Name="CirPoint" Parent="5321" Value="Target_185" />
+    <RoutineArgument ID="5324" Name="ToPoint" Parent="5321" Value="Target_190" />
+    <RoutineArgument ID="5325" Name="ID" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5326" Name="Speed" Parent="5321" Value="v200" />
+    <RoutineArgument ID="5327" Name="V" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5328" Name="T" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5329" Name="Zone" Parent="5321" Value="z5" />
+    <RoutineArgument ID="5330" Name="Z" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5331" Name="Inpos" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5332" Name="Tool" Parent="5321" Value="THerramienta" />
+    <RoutineArgument ID="5333" Name="WObj" Parent="5321" Value="Workobject_1" />
+    <RoutineArgument ID="5334" Name="Corr" Parent="5321" Enabled="false" />
+    <RoutineArgument ID="5335" Name="TLoad" Parent="5321" Enabled="false" />
+    <DataDeclaration ID="5336" Name="Target_55" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.41507983207703,1.02351582050323,0.0727601796388626,-1.78036773204803,0.552814185619354,2.45741891860962" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5337" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[97.319,60.55,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5337" Name="" Parent="5336" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5338" Name="Target_55" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5336" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.097319" Y="0.06055" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5339" Name="Target_80" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.38718914985657,1.03714907169342,0.0354327447712421,-1.77106118202209,0.535226166248322,2.41772603988647" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5340" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[115.844,63.278,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5340" Name="" Parent="5339" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5341" Name="Target_80" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5339" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.115844" Y="0.063278" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5342" Name="Target_115" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5343" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[128.566,60.282,0],[0.015654757,0,0,0.999877457],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5343" Name="" Parent="5342" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5344" Name="Target_115" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5342" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.128566" Y="0.060282" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5345" Name="Target_125" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.37227296829224,1.06978678703308,-0.0508242547512054,-1.69510507583618,0.519164264202118,2.31492233276367" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5346" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[138.21,52.221,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5346" Name="" Parent="5345" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5347" Name="Target_125" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5345" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.13821" Y="0.052221" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5348" Name="Target_180" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.35285902023315,1.09237968921661,-0.108455568552017,-1.65135288238525,0.505162596702576,2.24597668647766" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5349" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[156.961,49.601,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5349" Name="" Parent="5348" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5350" Name="Target_180" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5348" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.156961" Y="0.049601" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <DataDeclaration ID="5351" Name="Target_185" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="2.34471464157104,1.10756659507751,-0.146409437060356,-1.61723017692566,0.499138683080673,2.19937205314636" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5352" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[167.277,46.352,0],[0.015654757,0,0,0.999877457],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5352" Name="" Parent="5351" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5353" Name="Target_185" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Robtarget ID="5351" />
+      <Workobject ID="4142" />
+      <ReferenceFrame>
+        <RowX X="0" Y="1" Z="0" W="0" />
+        <RowY X="1" Y="0" Z="0" W="0" />
+        <RowZ X="0" Y="0" Z="-1" W="0" />
+        <RowT X="0.167277" Y="0.046352" Z="0" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
   </Objects>
   <ReferencedDocuments>
     <DocRef ID="1" DocumentType="ComponentLibrary" Location="%ABB.RobotStudio.Models.IRB140%\IRB140_6_81_C_G_03.rslib" RelativeLocation="..\..\..\..\..\..\..\..\..\Program Files (x86)\ABB\RobotStudio 2023\Packages\ABB.RobotStudio.Models.IRB140-1.1\RobotStudio\LibraryComponents\IRB140_6_81_C_G_03.rslib" GUID="{47923382-85A9-4067-8874-9DF8C9951894}" />
-    <DocRef ID="2" DocumentType="ComponentLibrary" Location="C:\Users\ASUS\Desktop\2024-I\Robotica\LAB\Practica1\Practica1\Components\MyNewTool.rslib" RelativeLocation="..\Components\MyNewTool.rslib" GUID="{6DD4EF91-4A13-4585-9C40-27BCB5E043DD}" />
+    <DocRef ID="2" DocumentType="ComponentLibrary" Location="C:\Users\Acer\Desktop\2024-I\Robotica\Lab\Practica1\Practica1\Components\MyNewTool.rslib" RelativeLocation="..\Components\MyNewTool.rslib" GUID="{6DD4EF91-4A13-4585-9C40-27BCB5E043DD}" />
   </ReferencedDocuments>
 </PIMDocument>

@@ -3919,8 +3919,8 @@
       <ClipPlane ID="-1" />
       <JointValues>
         <Double Value="0" />
-        <Double Value="1.72952994148545E-08" />
-        <Double Value="2.65918131958642E-08" />
+        <Double Value="2.0132890909963E-08" />
+        <Double Value="2.17288480541811E-08" />
         <Double Value="0" />
         <Double Value="0.523598670959473" />
         <Double Value="2.98023223876953E-08" />
@@ -3995,10 +3995,10 @@
     <MechanismLinkInstance ID="2364" Name="Link2" Parent="2361" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="15" DocID="1" />
       <Transform>
-        <RowX X="1" Y="0" Z="-1.72952959233712E-08" W="0" />
+        <RowX X="1" Y="0" Z="-2.01328874184796E-08" W="0" />
         <RowY X="0" Y="1" Z="0" W="0" />
-        <RowZ X="1.72952959233712E-08" Y="0" Z="1" W="0" />
-        <RowT X="-6.08794414880265E-09" Y="0" Z="1.21067078584502E-09" W="1" />
+        <RowZ X="2.01328874184796E-08" Y="0" Z="1" W="0" />
+        <RowT X="-7.08677636018784E-09" Y="0" Z="1.40930217495949E-09" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4024,10 +4024,10 @@
     <MechanismLinkInstance ID="2365" Name="Link3" Parent="2361" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="16" DocID="1" />
       <Transform>
-        <RowX X="0.999999999999999" Y="0" Z="-4.38871123503205E-08" W="0" />
+        <RowX X="0.999999999999999" Y="0" Z="-4.18617387037458E-08" W="0" />
         <RowY X="0" Y="1" Z="0" W="0" />
-        <RowZ X="4.38871123503205E-08" Y="0" Z="0.999999999999999" W="0" />
-        <RowT X="-2.50213172958702E-08" Y="0" Z="3.07209857552948E-09" W="1" />
+        <RowZ X="4.18617387037458E-08" Y="0" Z="0.999999999999999" W="0" />
+        <RowT X="-2.25577183182724E-08" Y="0" Z="2.93032242915103E-09" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4053,10 +4053,10 @@
     <MechanismLinkInstance ID="2366" Name="Link4" Parent="2361" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="17" DocID="1" />
       <Transform>
-        <RowX X="0.999999999999999" Y="0" Z="-4.38871123503205E-08" W="0" />
+        <RowX X="0.999999999999999" Y="0" Z="-4.18617387037458E-08" W="0" />
         <RowY X="0" Y="1" Z="0" W="0" />
-        <RowZ X="4.38871123503205E-08" Y="0" Z="0.999999999999999" W="0" />
-        <RowT X="-2.50213174068925E-08" Y="0" Z="3.07209857552948E-09" W="1" />
+        <RowZ X="4.18617387037458E-08" Y="0" Z="0.999999999999999" W="0" />
+        <RowT X="-2.25577184154169E-08" Y="0" Z="2.93032242915103E-09" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4082,10 +4082,10 @@
     <MechanismLinkInstance ID="2367" Name="Link5" Parent="2361" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="18" DocID="1" />
       <Transform>
-        <RowX X="0.866025434160292" Y="0" Z="-0.499999947387474" W="0" />
+        <RowX X="0.866025435172979" Y="0" Z="-0.499999945633449" W="0" />
         <RowY X="0" Y="1" Z="0" W="0" />
-        <RowZ X="0.499999947387474" Y="0" Z="0.866025434160292" W="0" />
-        <RowT X="-0.295711401685707" Y="0" Z="0.320389850525133" W="1" />
+        <RowZ X="0.499999945633449" Y="0" Z="0.866025435172979" W="0" />
+        <RowT X="-0.295711399871017" Y="0" Z="0.32038984978443" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4111,10 +4111,10 @@
     <MechanismLinkInstance ID="2368" Name="Link6" Parent="2361" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="19" DocID="1" />
       <Transform>
-        <RowX X="0.866025434160292" Y="0" Z="-0.499999947387474" W="0" />
-        <RowY X="1.49011624041223E-08" Y="1" Z="2.58095667345599E-08" W="0" />
-        <RowZ X="0.499999947387474" Y="-2.98023216548596E-08" Z="0.866025434160292" W="0" />
-        <RowT X="-0.295711401685707" Y="2.12192546929062E-08" Z="0.320389850525133" W="1" />
+        <RowX X="0.866025435172979" Y="0" Z="-0.499999945633449" W="0" />
+        <RowY X="1.49011625973117E-08" Y="1" Z="2.58095672088295E-08" W="0" />
+        <RowZ X="0.499999945633449" Y="-2.98023221621839E-08" Z="0.866025435172979" W="0" />
+        <RowT X="-0.295711399871017" Y="2.12192549394024E-08" Z="0.320389849784431" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4143,10 +4143,10 @@
         <ObjectRef ID="2371" />
       </ChildInstances>
       <Transform>
-        <RowX X="-0.499999947387474" Y="2.9802321655219E-08" Z="-0.866025434160292" W="0" />
-        <RowY X="1.49011592596341E-08" Y="1" Z="2.58095685504457E-08" W="0" />
-        <RowZ X="0.866025434160292" Y="0" Z="-0.499999947387474" W="0" />
-        <RowT X="0.506291659446725" Y="0" Z="0.679499986742711" W="1" />
+        <RowX X="-0.499999945633449" Y="2.98023221622073E-08" Z="-0.866025435172979" W="0" />
+        <RowY X="1.49011594608542E-08" Y="1" Z="2.58095690196909E-08" W="0" />
+        <RowZ X="0.866025435172979" Y="0" Z="-0.499999945633449" W="0" />
+        <RowT X="0.506291660534083" Y="0" Z="0.679499987626365" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -4347,7 +4347,8 @@
         <ObjectRef ID="5692" />
         <ObjectRef ID="5695" />
         <ObjectRef ID="5698" />
-        <ObjectRef ID="5701" />
+        <ObjectRef ID="5732" />
+        <ObjectRef ID="5735" />
       </Declarations>
       <Targets>
         <ObjectRef ID="5101" />
@@ -4389,7 +4390,8 @@
         <ObjectRef ID="5694" />
         <ObjectRef ID="5697" />
         <ObjectRef ID="5700" />
-        <ObjectRef ID="5703" />
+        <ObjectRef ID="5734" />
+        <ObjectRef ID="5737" />
       </Targets>
       <DefinedRoutineDeclarations>
         <ObjectRef ID="2383" />
@@ -4440,9 +4442,9 @@
         <ObjectRef ID="3414" />
         <ObjectRef ID="3431" />
       </DefinedMoveInstructionGroups>
-      <ActiveWObj ID="4142" />
+      <ActiveWObj ID="2381" />
       <ActiveTool ID="3443" />
-      <ActivePath ID="5142" />
+      <ActivePath ID="5102" />
       <ActiveProcess ID="3152" />
       <Frame>
         <RowX X="1" Y="0" Z="0" W="0" />
@@ -7151,7 +7153,7 @@
       </MoveInstructionTemplateGroups>
       <ActiveTemplateGroup ID="3153" />
     </MoveInstructionGroup>
-    <MoveInstructionTemplateGroup ID="3153" Name="Default" Parent="3152" ActiveMotionType="1">
+    <MoveInstructionTemplateGroup ID="3153" Name="Default" Parent="3152" ActiveMotionType="0">
       <TemplateJoint ID="3154" />
       <TemplateLinear ID="3168" />
       <TemplateCircular ID="3183" />
@@ -7178,10 +7180,10 @@
     <RoutineArgument ID="3156" Name="Conc" Parent="3155" Enabled="false" />
     <RoutineArgument ID="3157" Name="ToPoint" Parent="3155" />
     <RoutineArgument ID="3158" Name="ID" Parent="3155" Enabled="false" />
-    <RoutineArgument ID="3159" Name="Speed" Parent="3155" Value="v1000" />
+    <RoutineArgument ID="3159" Name="Speed" Parent="3155" Value="v600" />
     <RoutineArgument ID="3160" Name="V" Parent="3155" Enabled="false" />
     <RoutineArgument ID="3161" Name="T" Parent="3155" Enabled="false" />
-    <RoutineArgument ID="3162" Name="Zone" Parent="3155" Value="z100" />
+    <RoutineArgument ID="3162" Name="Zone" Parent="3155" Value="z0" />
     <RoutineArgument ID="3163" Name="Z" Parent="3155" Enabled="false" />
     <RoutineArgument ID="3164" Name="Inpos" Parent="3155" Enabled="false" />
     <RoutineArgument ID="3165" Name="Tool" Parent="3155" />
@@ -7878,7 +7880,7 @@
     <DataDeclaration ID="4142" Name="Workobject_1" Parent="2378" StorageType="2" DataType="wobjdata" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <DeclarationInfo ID="4143" />
       <RoutineName Value="" />
-      <InitialExpression Value="[FALSE,TRUE,&quot;&quot;,[[0,0,10],[1,0,0,0]],[[-475,350,-10],[0,0.707106781,0.707106781,0]]]" />
+      <InitialExpression Value="[FALSE,TRUE,&quot;&quot;,[[0,0,10],[1,0,0,0]],[[786.863,225,291.005],[0,0.923879533,0,0.382683432]]]" />
       <UserFrameFollowObject ID="-1" />
       <UserFrameFollowOffset>
         <RowX X="1" Y="0" Z="0" W="0" />
@@ -7902,10 +7904,10 @@
     <ComponentInstance ID="4737" Name="Workspacev3" Parent="1183" PickingEnabled="true" Detectable="true" PhysicsMotionControl="0">
       <Definition ID="4736" />
       <Transform>
-        <RowX X="1" Y="0" Z="0" W="0" />
-        <RowY X="0" Y="1" Z="0" W="0" />
-        <RowZ X="0" Y="0" Z="1" W="0" />
-        <RowT X="-0.25" Y="0.5" Z="-0.01" W="1" />
+        <RowX X="0" Y="-1" Z="0" W="0" />
+        <RowY X="0.707106781186548" Y="0" Z="0.707106781186547" W="0" />
+        <RowZ X="-0.707106781186547" Y="0" Z="0.707106781186548" W="0" />
+        <RowT X="0.9" Y="0" Z="0.4" W="1" />
       </Transform>
       <Source Value="" />
       <SourceFileTime HighPart="0" LowPart="0" />
@@ -7947,7 +7949,7 @@
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
           <Value>
-            <Integer Value="1" />
+            <Integer Value="0" />
           </Value>
         </Attribute>
         <Attribute Key="jointvalues">
@@ -7985,47 +7987,13 @@
     <PathProcedureDeclaration ID="5102" Name="Path_40" Parent="2378" ShowName="false" ZoneVisualization="0" ShowSpeeds="false">
       <DeclarationInfo ID="5103" />
       <RoutineCalls>
-        <ObjectRef ID="5104" />
+        <ObjectRef ID="5738" />
       </RoutineCalls>
     </PathProcedureDeclaration>
     <RAPIDDeclarationInfo ID="5103" Name="" Parent="5102" Local="false" EnableSync="true">
       <TaskName Value="" />
       <ModuleName Value="Module1" />
     </RAPIDDeclarationInfo>
-    <MoveInstructionCall ID="5104" Name="MoveJ" Parent="5102" Thickness="2" Reachable="1">
-      <ArgumentList ID="5105" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="5105" Name="" Parent="5104">
-      <RoutineArguments>
-        <ObjectRef ID="5106" />
-        <ObjectRef ID="5107" />
-        <ObjectRef ID="5108" />
-        <ObjectRef ID="5109" />
-        <ObjectRef ID="5110" />
-        <ObjectRef ID="5111" />
-        <ObjectRef ID="5112" />
-        <ObjectRef ID="5113" />
-        <ObjectRef ID="5114" />
-        <ObjectRef ID="5115" />
-        <ObjectRef ID="5116" />
-        <ObjectRef ID="5117" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="5106" Name="Conc" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5107" Name="ToPoint" Parent="5105" Value="Target_M" />
-    <RoutineArgument ID="5108" Name="ID" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5109" Name="Speed" Parent="5105" Value="v100" />
-    <RoutineArgument ID="5110" Name="V" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5111" Name="T" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5112" Name="Zone" Parent="5105" Value="z5" />
-    <RoutineArgument ID="5113" Name="Z" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5114" Name="Inpos" Parent="5105" Enabled="false" />
-    <RoutineArgument ID="5115" Name="Tool" Parent="5105" Value="THerramienta" />
-    <RoutineArgument ID="5116" Name="WObj" Parent="5105" Value="Workobject_1" />
-    <RoutineArgument ID="5117" Name="TLoad" Parent="5105" Enabled="false" />
     <ActionInstructionCall ID="5118" Name="Set" Parent="4936" TrigValidity="0">
       <ArgumentList ID="5119" />
       <InstructionTemplateName Value="Default" />
@@ -8075,13 +8043,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.17647886276245,1.00521469116211,0.124368280172348,-2.07796955108643,0.478609472513199,2.58546614646912" />
+            <String Value="0.0778390571710658,0.847925856134645,-0.628886987200977,0.344625094110777,-0.232249209962477,-0.336061684353705" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5131" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[172.146,169.721,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[172.146,169.721,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5131" Name="" Parent="5130" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8114,13 +8082,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.33034122374791,0.967871287005076,0.236857068998964,-2.00481238552621,0.566479761953735,2.66440911429296" />
+            <String Value="0.14566486911237,0.756662342226287,-0.321439389438359,0.334855504874768,-0.457469673073157,-0.302592865983471" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5134" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[94.179,126.363,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[94.179,126.363,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5134" Name="" Parent="5133" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8153,13 +8121,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.44782567024231,1.04787719249725,0.0066345427185297,-1.65183246135712,0.576918542385101,2.37200522422791" />
+            <String Value="0.279480452080224,0.809205724542817,-0.411814986214557,0.638074258022077,-0.481510360129818,-0.581446226662876" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5137" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[95.464,37.16,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[95.464,37.16,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5137" Name="" Parent="5136" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8192,13 +8160,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.17647886276245,0.880605459213257,0.17081393301487,-1.93550515174866,0.445506066083908,2.42640066146851" />
+            <String Value="0.0819081376443608,0.709858062071744,-0.492075770023546,0.36309511005917,-0.23244702290711,-0.354135669322884" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5140" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[172.146,169.721,-50],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[172.146,169.721,-50],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5140" Name="" Parent="5139" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8225,7 +8193,7 @@
     <PathProcedureDeclaration ID="5142" Name="Twitter" Parent="2378" ShowName="false" ZoneVisualization="0" ShowSpeeds="false">
       <DeclarationInfo ID="5143" />
       <RoutineCalls>
-        <ObjectRef ID="5640" />
+        <ObjectRef ID="5704" />
         <ObjectRef ID="5144" />
         <ObjectRef ID="5158" />
         <ObjectRef ID="5173" />
@@ -8253,7 +8221,7 @@
         <ObjectRef ID="5594" />
         <ObjectRef ID="5624" />
         <ObjectRef ID="5609" />
-        <ObjectRef ID="5654" />
+        <ObjectRef ID="5718" />
       </RoutineCalls>
     </PathProcedureDeclaration>
     <RAPIDDeclarationInfo ID="5143" Name="" Parent="5142" Local="false" EnableSync="true">
@@ -8453,13 +8421,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.41819216245703,1.02591631517763,0.0661235998993024,-1.73842646550326,0.56753280991995,2.44401657300482" />
+            <String Value="0.251925900422677,0.796057718566188,-0.390597674151751,0.578168544923028,-0.473638615433932,-0.526120335893094" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5222" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[97.319,60.55,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[97.319,60.55,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5222" Name="" Parent="5221" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8492,13 +8460,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.37800578401901,1.01582258303378,0.0942277868872023,-1.80820363583124,0.553333655346223,2.48408524536595" />
+            <String Value="0.213192423717662,0.793016374635466,-0.409225430461117,0.524199715421619,-0.436447137222622,-0.482627771721497" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5225" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[108.141,81.369,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[108.141,81.369,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5225" Name="" Parent="5224" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8531,13 +8499,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.39156818389893,1.03717374801636,0.0353661812841892,-1.73453342914581,0.551991522312164,2.41167831420898" />
+            <String Value="0.232052658425532,0.805995949809625,-0.439148361852569,0.582565430824025,-0.431253476834766,-0.539330112749564" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5228" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[114.101,64.13,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[114.101,64.13,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5228" Name="" Parent="5227" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8570,13 +8538,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.38539862632751,1.06182169914246,-0.0301303770393133,-1.67417323589325,0.543514966964722,2.33470702171326" />
+            <String Value="0.247724976598338,0.838014453334044,-0.52833223137026,0.692714403917088,-0.394066466415342,-0.653852795803564" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5231" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[128.91,53.479,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[128.91,53.479,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5231" Name="" Parent="5230" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8799,13 +8767,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.37768411636353,1.05451154708862,-0.01094591896981,-1.70115005970001,0.54100501537323,2.3584451675415" />
+            <String Value="0.244654355529988,0.835940562953048,-0.524186421888279,0.683176860286572,-0.393810795029145,-0.644540826725221" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5314" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[128.569,60.297,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[128.569,60.297,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5314" Name="" Parent="5313" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8838,13 +8806,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.36809754371643,1.04887497425079,0.00397993111982942,-1.72595858573914,0.537590265274048,2.37767577171326" />
+            <String Value="0.228674199086263,0.829349089967158,-0.514797356471804,0.644952993921642,-0.386642777159432,-0.608533725093762" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5317" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[129.686,67.033,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[129.686,67.033,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5317" Name="" Parent="5316" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8877,13 +8845,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.37624263763428,1.07722389698029,-0.0699623674154282,-1.64207243919373,0.536604762077332,2.28818774223328" />
+            <String Value="0.247284956984046,0.85073024508255,-0.566274880542911,0.732579964691488,-0.374699574685295,-0.696992314116557" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5320" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[140.077,49.513,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[140.077,49.513,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5320" Name="" Parent="5319" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8916,13 +8884,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.36063671112061,1.10513162612915,-0.1403628885746,-1.583451628685,0.526206135749817,2.20510530471802" />
+            <String Value="0.254343421774651,0.896169834041389,-0.688680111415132,0.900704481746448,-0.326814224790448,-0.874080464424445" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5323" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[159.408,43.089,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[159.408,43.089,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5323" Name="" Parent="5322" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8955,13 +8923,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.35604786872864,1.09490776062012,-0.114814460277557,-1.61380779743195,0.524048507213593,2.23580598831177" />
+            <String Value="0.251463221051968,0.891859394460779,-0.678840869458531,0.882230356808975,-0.328096427527119,-0.855204528632839" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5326" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[156.802,49.64,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[156.802,49.64,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5326" Name="" Parent="5325" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -8994,13 +8962,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.34850835800171,1.08656537532806,-0.0937651470303535,-1.64254856109619,0.520624697208405,2.26171231269836" />
+            <String Value="0.236847376869664,0.878752394746339,-0.651929668958602,0.820760786576874,-0.3264602582555,-0.793658680674818" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5329" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[156.139,56.659,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[156.139,56.659,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5329" Name="" Parent="5328" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9033,13 +9001,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.34249663352966,1.12179255485535,-0.181458070874214,-1.55562782287598,0.515719771385193,2.15598440170288" />
+            <String Value="0.249065676294132,0.916489170641422,-0.745458306589604,0.981070973683461,-0.301125756280135,-0.95960970433256" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5332" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[174.493,43.802,0],[0,0,0,1],[1,-1,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[174.493,43.802,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5332" Name="" Parent="5331" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9072,13 +9040,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.31420540809631,1.14535856246948,-0.238567471504211,-1.51688408851624,0.499819576740265,2.08582305908203" />
+            <String Value="0.24016058132886,0.977924961673342,-0.903534055197518,1.27613486380748,-0.251205625154605,-1.26715471615085" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5335" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[196.643,47.198,0],[0,0,0,1],[1,-1,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[196.643,47.198,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5335" Name="" Parent="5334" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9111,13 +9079,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.30569005012512,1.08707976341248,-0.0950683802366257,-1.68080341815948,0.497243046760559,2.26445984840393" />
+            <String Value="0.211506054658263,0.903509487433562,-0.731726284812117,0.898429318515954,-0.271665358667739,-0.880150232064971" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5338" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[173.907,75.001,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[173.907,75.001,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5338" Name="" Parent="5337" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9150,13 +9118,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.27106738090515,1.04424774646759,0.0163244549185038,-1.84159338474274,0.492591708898544,2.41343688964844" />
+            <String Value="0.162411247791393,0.858590310914175,-0.633236304105645,0.632719998548954,-0.276971156789118,-0.614302161139303" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5341" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[164.745,109.728,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[164.745,109.728,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5341" Name="" Parent="5340" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9189,13 +9157,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.21380257606506,1.06787669658661,-0.0458808094263077,-1.83328998088837,0.454510301351547,2.34857511520386" />
+            <String Value="0.141802440821473,0.917542687993917,-0.795519254804617,0.864781972557648,-0.186809037812201,-0.856105121076859" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5344" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[198.416,125.037,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[198.416,125.037,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5344" Name="" Parent="5343" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9454,13 +9422,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.16791701316833,1.03186678886414,0.0497930496931076,-2.00410962104797,0.453447014093399,2.49424171447754" />
+            <String Value="0.0875641715555065,0.891199344578974,-0.742300366033028,0.534345779235396,-0.172573495964253,-0.527810446901164" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5442" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[192.364,161.526,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[192.364,161.526,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5442" Name="" Parent="5441" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9493,13 +9461,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.1507396697998,1.02781319618225,0.0608997344970703,-2.03960561752319,0.449305713176727,2.51680564880371" />
+            <String Value="0.0793960540767145,0.892519366632728,-0.74724619355901,0.502545133073791,-0.165419470546715,-0.496764890052946" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5445" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[195.069,171.202,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[195.069,171.202,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5445" Name="" Parent="5444" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9532,13 +9500,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.14937305450439,1.0197319984436,0.0832800939679146,-2.06748151779175,0.455390691757202,2.54644680023193" />
+            <String Value="0.0652973722190159,0.889606292219369,-0.742046133065733,0.418484323613012,-0.16126607428491,-0.41365621129902" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5448" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[190.171,175.306,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[190.171,175.306,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5448" Name="" Parent="5447" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9571,13 +9539,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.15364527702332,1.01328134536743,0.101389028131962,-2.08244943618774,0.462690144777298,2.56740880012512" />
+            <String Value="0.0727534079276201,0.869632794364571,-0.68856198945444,0.384563278821224,-0.194991537434778,-0.377955573198585" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5451" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[184.555,176.204,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[184.555,176.204,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5451" Name="" Parent="5450" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9610,13 +9578,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.15665078163147,1.00678288936615,0.119870632886887,-2.09911727905273,0.469779312610626,2.58909749984741" />
+            <String Value="0.0618420780737301,0.864976186208372,-0.677877946843911,0.321354629277855,-0.196940222863853,-0.315550587882167" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5454" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[179.202,177.798,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[179.202,177.798,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5454" Name="" Parent="5453" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9649,13 +9617,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.13270664215088,1.02639436721802,0.0648054927587509,-2.06829786300659,0.443075001239777,2.53088808059692" />
+            <String Value="0.0614507146321509,0.902442733735129,-0.775425960684605,0.452154339762242,-0.141028777337444,-0.448245223397323" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5457" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[199.539,180.201,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[199.539,180.201,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5457" Name="" Parent="5456" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9688,13 +9656,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.1684730052948,1.0177686214447,0.0887681394815445,-2.04859399795532,0.464624285697937,2.54441118240356" />
+            <String Value="0.0801133323764671,0.869615910384648,-0.687193715008865,0.416646971545258,-0.199059337488054,-0.409315525959471" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5460" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[183.068,167.479,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[183.068,167.479,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5460" Name="" Parent="5459" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -9727,13 +9695,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.13774037361145,1.01081228256226,0.10838195681572,-2.11167883872986,0.45893257856369,2.58408260345459" />
+            <String Value="0.0561741242587463,0.874731301722356,-0.704548015928807,0.320575460777724,-0.179129430999906,-0.315782690935641" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5463" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[187.549,184.533,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[187.549,184.533,0],[0,0,0,1],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5463" Name="" Parent="5462" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10181,74 +10149,6 @@
     <RoutineArgument ID="5637" Name="WObj" Parent="5625" Value="Workobject_1" />
     <RoutineArgument ID="5638" Name="Corr" Parent="5625" Enabled="false" />
     <RoutineArgument ID="5639" Name="TLoad" Parent="5625" Enabled="false" />
-    <MoveInstructionCall ID="5640" Name="MoveJ" Parent="5142" Thickness="2" Reachable="1">
-      <ArgumentList ID="5641" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="5641" Name="" Parent="5640">
-      <RoutineArguments>
-        <ObjectRef ID="5642" />
-        <ObjectRef ID="5643" />
-        <ObjectRef ID="5644" />
-        <ObjectRef ID="5645" />
-        <ObjectRef ID="5646" />
-        <ObjectRef ID="5647" />
-        <ObjectRef ID="5648" />
-        <ObjectRef ID="5649" />
-        <ObjectRef ID="5650" />
-        <ObjectRef ID="5651" />
-        <ObjectRef ID="5652" />
-        <ObjectRef ID="5653" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="5642" Name="Conc" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5643" Name="ToPoint" Parent="5641" Value="Target_H" />
-    <RoutineArgument ID="5644" Name="ID" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5645" Name="Speed" Parent="5641" Value="v600" />
-    <RoutineArgument ID="5646" Name="V" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5647" Name="T" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5648" Name="Zone" Parent="5641" Value="z0" />
-    <RoutineArgument ID="5649" Name="Z" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5650" Name="Inpos" Parent="5641" Enabled="false" />
-    <RoutineArgument ID="5651" Name="Tool" Parent="5641" Value="THerramienta" />
-    <RoutineArgument ID="5652" Name="WObj" Parent="5641" Value="Workobject_1" />
-    <RoutineArgument ID="5653" Name="TLoad" Parent="5641" Enabled="false" />
-    <MoveInstructionCall ID="5654" Name="MoveJ" Parent="5142" Thickness="2" Reachable="1">
-      <ArgumentList ID="5655" />
-      <GroupName Value="Move" />
-      <TemplateGroupName Value="Default" />
-      <Color Red="1" Green="1" Blue="0" Alpha="1" />
-    </MoveInstructionCall>
-    <RoutineArgumentList ID="5655" Name="" Parent="5654">
-      <RoutineArguments>
-        <ObjectRef ID="5656" />
-        <ObjectRef ID="5657" />
-        <ObjectRef ID="5658" />
-        <ObjectRef ID="5659" />
-        <ObjectRef ID="5660" />
-        <ObjectRef ID="5661" />
-        <ObjectRef ID="5662" />
-        <ObjectRef ID="5663" />
-        <ObjectRef ID="5664" />
-        <ObjectRef ID="5665" />
-        <ObjectRef ID="5666" />
-        <ObjectRef ID="5667" />
-      </RoutineArguments>
-    </RoutineArgumentList>
-    <RoutineArgument ID="5656" Name="Conc" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5657" Name="ToPoint" Parent="5655" Value="Target_H" />
-    <RoutineArgument ID="5658" Name="ID" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5659" Name="Speed" Parent="5655" Value="v600" />
-    <RoutineArgument ID="5660" Name="V" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5661" Name="T" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5662" Name="Zone" Parent="5655" Value="z0" />
-    <RoutineArgument ID="5663" Name="Z" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5664" Name="Inpos" Parent="5655" Enabled="false" />
-    <RoutineArgument ID="5665" Name="Tool" Parent="5655" Value="THerramienta" />
-    <RoutineArgument ID="5666" Name="WObj" Parent="5655" Value="Workobject_1" />
-    <RoutineArgument ID="5667" Name="TLoad" Parent="5655" Enabled="false" />
     <DataDeclaration ID="5668" Name="Target_140" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
@@ -10258,13 +10158,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.06081318855286,0.999274730682373,0.141546666622162,-2.25664615631104,0.444527745246887,2.66785860061646" />
+            <String Value="9.81257484250517E-16,0.898239681964224,-0.768942112762469,-2.28505335687903E-14,-0.129297567104472,2.27975058066872E-14" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5669" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[200,225,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[200,225,0],[0,0,0,1],[0,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5669" Name="" Parent="5668" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10297,13 +10197,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.03556752204895,0.991334974765778,0.164883598685265,-2.31820368766785,0.446839511394501,2.71055698394775" />
+            <String Value="-0.0205892843748596,0.898831910874002,-0.76997700557085,-0.158901211549148,-0.130480480739833,0.157572811189001" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5672" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[200,240,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[200,240,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5672" Name="" Parent="5671" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10336,13 +10236,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.06081318855286,0.873630583286285,0.188118636608124,-2.11234664916992,0.398855686187744,2.50980067253113" />
+            <String Value="8.53205315580885E-16,0.754608026687348,-0.618292192869592,-2.25269545429056E-14,-0.136315831720473,2.27256122277806E-14" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5675" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[200,225,-50],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[200,225,-50],[0,0,0,1],[0,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5675" Name="" Parent="5674" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10375,13 +10275,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.13826608657837,0.912407875061035,0.439657092094421,-2.41617441177368,0.610003530979156,2.93656539916992" />
+            <String Value="-0.0228020810807582,0.742825594548467,-0.306498778276124,-0.0539120169147604,-0.436883967199874,0.0488567746987249" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5678" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[100,240,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[100,240,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5678" Name="" Parent="5677" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10414,13 +10314,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="2.16666555404663,0.918098568916321,0.4150730073452,-2.36307811737061,0.600593209266663,2.90564060211182" />
+            <String Value="1.46101110076872E-15,0.742374084601638,-0.305728097239429,-7.93505790627351E-15,-0.436645985264926,7.90141778768422E-15" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5681" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[100,225,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[100,225,0],[0,0,0,1],[0,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5681" Name="" Parent="5680" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10453,13 +10353,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.98686218261719,0.927306532859802,0.377928525209427,-2.56402373313904,0.550873517990112,2.93752932548523" />
+            <String Value="-0.0930080314535978,0.818855244049776,-0.542972849807392,-0.329916950439096,-0.290759136579815,0.316996177869163" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5684" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[150,290,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[150,290,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5684" Name="" Parent="5683" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10492,13 +10392,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.78683042526245,0.885627806186676,0.596042275428772,-2.9036648273468,0.698549866676331,3.11192059516907" />
+            <String Value="-0.24878658057779,0.805160261899073,-0.423957162175137,-0.599130255486507,-0.451852778374331,0.55088867715552" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5687" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[105,392.992,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[105,392.992,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5687" Name="" Parent="5686" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10531,13 +10431,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.7458484172821,0.938094139099121,0.337476402521133,-2.88024926185608,0.496809810400009,3.03507542610168" />
+            <String Value="-0.227726414562011,0.963386165796497,-0.874522995184627,-1.20507793027345,-0.244169883351857,1.1949091243971" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5690" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[195,392.992,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[195,392.992,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5690" Name="" Parent="5689" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10570,13 +10470,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.78683042526245,0.716051518917084,0.652667999267578,-2.86536359786987,0.58928370475769,3.06410384178162" />
+            <String Value="-0.26222025600049,0.67195356329026,-0.299510531289217,-0.63550627982493,-0.451940172772582,0.585828002555233" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5693" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[105,392.992,-50],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[105,392.992,-50],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5693" Name="" Parent="5692" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10609,13 +10509,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.92284309864044,0.91851931810379,0.413310647010803,-2.66948509216309,0.565876245498657,2.98876976966858" />
+            <String Value="-0.138574187130443,0.819371631301255,-0.530354531667514,-0.455086565085717,-0.319680053085881,0.43488919725786" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5696" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[150,321.197,0],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[150,321.197,0],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5696" Name="" Parent="5695" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10648,13 +10548,13 @@
         </Attribute>
         <Attribute Key="jointvalues">
           <Value>
-            <String Value="1.7458484172821,0.798000395298004,0.386602103710175,-2.82716989517212,0.409549832344055,2.9760959148407" />
+            <String Value="-0.238973417760236,0.814343105827973,-0.708922949958091,-1.16309008395405,-0.260785701770227,1.1504219206436" />
           </Value>
         </Attribute>
       </Attributes>
       <DeclarationInfo ID="5699" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[195,392.992,-50],[0,0,0,1],[1,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[195,392.992,-50],[0,0,0,1],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
     <RAPIDDeclarationInfo ID="5699" Name="" Parent="5698" Local="false" EnableSync="true">
       <TaskName Value="" />
@@ -10671,7 +10571,75 @@
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
-    <DataDeclaration ID="5701" Name="Target_H" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+    <MoveInstructionCall ID="5704" Name="MoveJ" Parent="5142" Thickness="2" Reachable="1">
+      <ArgumentList ID="5705" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5705" Name="" Parent="5704">
+      <RoutineArguments>
+        <ObjectRef ID="5706" />
+        <ObjectRef ID="5707" />
+        <ObjectRef ID="5708" />
+        <ObjectRef ID="5709" />
+        <ObjectRef ID="5710" />
+        <ObjectRef ID="5711" />
+        <ObjectRef ID="5712" />
+        <ObjectRef ID="5713" />
+        <ObjectRef ID="5714" />
+        <ObjectRef ID="5715" />
+        <ObjectRef ID="5716" />
+        <ObjectRef ID="5717" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5706" Name="Conc" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5707" Name="ToPoint" Parent="5705" Value="Target_HH" />
+    <RoutineArgument ID="5708" Name="ID" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5709" Name="Speed" Parent="5705" Value="v600" />
+    <RoutineArgument ID="5710" Name="V" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5711" Name="T" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5712" Name="Zone" Parent="5705" Value="z0" />
+    <RoutineArgument ID="5713" Name="Z" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5714" Name="Inpos" Parent="5705" Enabled="false" />
+    <RoutineArgument ID="5715" Name="Tool" Parent="5705" Value="THerramienta" />
+    <RoutineArgument ID="5716" Name="WObj" Parent="5705" Value="wobj0" />
+    <RoutineArgument ID="5717" Name="TLoad" Parent="5705" Enabled="false" />
+    <MoveInstructionCall ID="5718" Name="MoveJ" Parent="5142" Thickness="2" Reachable="1">
+      <ArgumentList ID="5719" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5719" Name="" Parent="5718">
+      <RoutineArguments>
+        <ObjectRef ID="5720" />
+        <ObjectRef ID="5721" />
+        <ObjectRef ID="5722" />
+        <ObjectRef ID="5723" />
+        <ObjectRef ID="5724" />
+        <ObjectRef ID="5725" />
+        <ObjectRef ID="5726" />
+        <ObjectRef ID="5727" />
+        <ObjectRef ID="5728" />
+        <ObjectRef ID="5729" />
+        <ObjectRef ID="5730" />
+        <ObjectRef ID="5731" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5720" Name="Conc" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5721" Name="ToPoint" Parent="5719" Value="Target_HH" />
+    <RoutineArgument ID="5722" Name="ID" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5723" Name="Speed" Parent="5719" Value="v600" />
+    <RoutineArgument ID="5724" Name="V" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5725" Name="T" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5726" Name="Zone" Parent="5719" Value="z0" />
+    <RoutineArgument ID="5727" Name="Z" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5728" Name="Inpos" Parent="5719" Enabled="false" />
+    <RoutineArgument ID="5729" Name="Tool" Parent="5719" Value="THerramienta" />
+    <RoutineArgument ID="5730" Name="WObj" Parent="5719" Value="wobj0" />
+    <RoutineArgument ID="5731" Name="TLoad" Parent="5719" Enabled="false" />
+    <DataDeclaration ID="5732" Name="Target_HH" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
       <Attributes>
         <Attribute Key="ConfigDataAssigned">
           <Value>
@@ -10684,25 +10652,105 @@
           </Value>
         </Attribute>
       </Attributes>
-      <DeclarationInfo ID="5702" />
+      <DeclarationInfo ID="5733" />
       <RoutineName Value="" />
-      <InitialExpression Value="[[-350,1055.651275023,-538.588646413],[0.701057385,-0.092295956,-0.092295956,-0.701057385],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+      <InitialExpression Value="[[580.651275023,0,538.588646413],[0.130526193,0,0.991444861,0],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
     </DataDeclaration>
-    <RAPIDDeclarationInfo ID="5702" Name="" Parent="5701" Local="false" EnableSync="true">
+    <RAPIDDeclarationInfo ID="5733" Name="" Parent="5732" Local="false" EnableSync="true">
       <TaskName Value="" />
       <ModuleName Value="Module1" />
     </RAPIDDeclarationInfo>
-    <Target ID="5703" Name="Target_H" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
-      <Robtarget ID="5701" />
-      <Workobject ID="4142" />
+    <Target ID="5734" Name="Target_HH" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Attributes>
+        <Attribute Key="GfxObject.Invisible">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <Robtarget ID="5732" />
+      <Workobject ID="2381" />
       <ReferenceFrame>
-        <RowX X="0" Y="-0.965925826062143" Z="0.25881904594942" W="0" />
-        <RowY X="1" Y="0" Z="0" W="0" />
-        <RowZ X="0" Y="0.25881904594942" Z="0.965925826062143" W="0" />
-        <RowT X="-0.35" Y="1.055651275023" Z="-0.538588646413" W="1" />
+        <RowX X="-0.965925825863535" Y="0" Z="-0.258819046690634" W="0" />
+        <RowY X="0" Y="1" Z="0" W="0" />
+        <RowZ X="0.258819046690634" Y="0" Z="-0.965925825863535" W="0" />
+        <RowT X="0.580651275023" Y="0" Z="0.538588646413" W="1" />
       </ReferenceFrame>
       <Color Red="0" Green="0" Blue="0" Alpha="0" />
     </Target>
+    <DataDeclaration ID="5735" Name="Target_MM" Parent="2378" StorageType="0" DataType="robtarget" IsInline="false" FrameSize="0.075" ShowName="false" Dimension1="0" Dimension2="0" Dimension3="0">
+      <Attributes>
+        <Attribute Key="ConfigDataAssigned">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+        <Attribute Key="jointvalues">
+          <Value>
+            <String Value="0.0701555982232094,0.485440194606781,-0.695406198501587,-0.720357358455658,0.523598551750183,7.53846194356811E-08" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <DeclarationInfo ID="5736" />
+      <RoutineName Value="" />
+      <InitialExpression Value="[[770.713816879,-60.514661016,649.373982496],[0.230927375,-0.041038912,0.909039083,-0.344436207],[0,-1,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]]" />
+    </DataDeclaration>
+    <RAPIDDeclarationInfo ID="5736" Name="" Parent="5735" Local="false" EnableSync="true">
+      <TaskName Value="" />
+      <ModuleName Value="Module1" />
+    </RAPIDDeclarationInfo>
+    <Target ID="5737" Name="Target_MM" Parent="2378" MultiColored="true" ApproachAxis="2" FrameSize="0.05" ShowReferenceFrame="false" ShowName="false">
+      <Attributes>
+        <Attribute Key="GfxObject.Invisible">
+          <Value>
+            <Integer Value="1" />
+          </Value>
+        </Attribute>
+      </Attributes>
+      <Robtarget ID="5735" />
+      <Workobject ID="2381" />
+      <ReferenceFrame>
+        <RowX X="-0.889976710347952" Y="-0.233691448153353" Z="-0.391573444066661" W="0" />
+        <RowY X="0.0844675484166963" Y="0.759359014003353" Z="-0.645165964009516" W="0" />
+        <RowZ X="0.448114592824995" Y="-0.607257931123048" Z="-0.656072493544307" W="0" />
+        <RowT X="0.770713816879" Y="-0.060514661016" Z="0.649373982496" W="1" />
+      </ReferenceFrame>
+      <Color Red="0" Green="0" Blue="0" Alpha="0" />
+    </Target>
+    <MoveInstructionCall ID="5738" Name="MoveJ" Parent="5102" Thickness="2" Reachable="1">
+      <ArgumentList ID="5739" />
+      <GroupName Value="Move" />
+      <TemplateGroupName Value="Default" />
+      <Color Red="1" Green="1" Blue="0" Alpha="1" />
+    </MoveInstructionCall>
+    <RoutineArgumentList ID="5739" Name="" Parent="5738">
+      <RoutineArguments>
+        <ObjectRef ID="5740" />
+        <ObjectRef ID="5741" />
+        <ObjectRef ID="5742" />
+        <ObjectRef ID="5743" />
+        <ObjectRef ID="5744" />
+        <ObjectRef ID="5745" />
+        <ObjectRef ID="5746" />
+        <ObjectRef ID="5747" />
+        <ObjectRef ID="5748" />
+        <ObjectRef ID="5749" />
+        <ObjectRef ID="5750" />
+        <ObjectRef ID="5751" />
+      </RoutineArguments>
+    </RoutineArgumentList>
+    <RoutineArgument ID="5740" Name="Conc" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5741" Name="ToPoint" Parent="5739" Value="Target_MM" />
+    <RoutineArgument ID="5742" Name="ID" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5743" Name="Speed" Parent="5739" Value="v600" />
+    <RoutineArgument ID="5744" Name="V" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5745" Name="T" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5746" Name="Zone" Parent="5739" Value="z0" />
+    <RoutineArgument ID="5747" Name="Z" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5748" Name="Inpos" Parent="5739" Enabled="false" />
+    <RoutineArgument ID="5749" Name="Tool" Parent="5739" Value="THerramienta" />
+    <RoutineArgument ID="5750" Name="WObj" Parent="5739" Value="wobj0" />
+    <RoutineArgument ID="5751" Name="TLoad" Parent="5739" Enabled="false" />
   </Objects>
   <ReferencedDocuments>
     <DocRef ID="1" DocumentType="ComponentLibrary" Location="%ABB.RobotStudio.Models.IRB140%\IRB140_6_81_C_G_03.rslib" RelativeLocation="..\..\..\..\..\..\..\..\..\Program Files (x86)\ABB\RobotStudio 2023\Packages\ABB.RobotStudio.Models.IRB140-1.1\RobotStudio\LibraryComponents\IRB140_6_81_C_G_03.rslib" GUID="{47923382-85A9-4067-8874-9DF8C9951894}" />

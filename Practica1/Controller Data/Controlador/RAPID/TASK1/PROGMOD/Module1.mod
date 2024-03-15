@@ -1,5 +1,8 @@
 MODULE Module1
-    CONST robtarget Target_HH:=[[649.853003696,0,627.146975726],[0.382683414,0,0.92387954,0],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    PERS tooldata THerramienta:=[TRUE,[[84.853,0,134.853],[0.923879533,0,0.382683432,0]],[0.1,[23.11,0,61.258],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata Workobject_1:=[FALSE,TRUE,"",[[0,0,10],[1,0,0,0]],[[409.583,-9.692,240],[0,1,0,0]]];
+    CONST robtarget Target_MM:=[[290.713816879,-34.485338984,-399.373982496],[0.041038912,0.230927375,0.344436207,0.909039083],[0,-1,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_HH:=[[169.853003696,-95,-377.146975726],[0,0.382683414,0,0.92387954],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_5:=[[172.146,169.721,-50],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_10:=[[172.146,169.721,0],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_15:=[[94.179,126.363,0],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
@@ -38,7 +41,6 @@ MODULE Module1
     CONST robtarget Target_185:=[[150,321.197,0],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_190:=[[195,392.992,0],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_195:=[[195,392.992,-50],[0,0,0,1],[-1,0,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_MM:=[[770.713816879,-60.514661016,649.373982496],[0.230927375,-0.041038912,0.909039083,-0.344436207],[0,-1,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     PROC main()
         Reset DO_01;
         Reset DO_02;
@@ -56,10 +58,10 @@ MODULE Module1
         ENDWHILE
     ENDPROC
     PROC Path_40()
-        MoveJ Target_MM,v600,z0,THerramienta\WObj:=wobj0;
+        MoveJ Target_MM,v600,z0,THerramienta\WObj:=Workobject_1;
     ENDPROC
     PROC Twitter()
-        MoveJ Target_HH,v600,z0,THerramienta\WObj:=wobj0;
+        MoveJ Target_HH,v600,z0,THerramienta\WObj:=Workobject_1;
         MoveJ Target_5,v600,z5,THerramienta\WObj:=Workobject_1;
         MoveL Target_10,v200,z0,THerramienta\WObj:=Workobject_1;
         MoveC Target_15,Target_20,v200,z0,THerramienta\WObj:=Workobject_1;
@@ -87,6 +89,6 @@ MODULE Module1
         MoveL Target_180,v200,z0,THerramienta\WObj:=Workobject_1;
         MoveC Target_185,Target_190,v200,z0,THerramienta\WObj:=Workobject_1;
         MoveL Target_195,v200,z0,THerramienta\WObj:=Workobject_1;
-        MoveJ Target_HH,v600,z0,THerramienta\WObj:=wobj0;
+        MoveJ Target_HH,v600,z0,THerramienta\WObj:=Workobject_1;
     ENDPROC
 ENDMODULE

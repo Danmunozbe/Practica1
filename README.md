@@ -85,7 +85,7 @@ Para hacer el código de la rutina se formuló el siguiente flujo de trabajo:
 A partir del modelo del tablero, se procedió a definir el Workobject para trazar la trayectoria correspondiente. Fundamentalmente, se hizo uso de los comandos MoveL, MoveJ y MoveC.
 
 `MoveL`: mueve el robot siguiendo una trayectoria lineal  
-`MoveJ`: mueve el robot mediante un movimiento de ejes  
+`MoveJ`: mueve el robot mediante un movimiento de ejes (articulaciones).  
 `MoveC`: mueve el robot en una trayectoria circular 
 
 De igual forma, se hizo uso de ciclos condicionales donde, dependiendo de la entrada digital habilitada, se realizaba el diseño del tablero (D01), o se retomaba la posición de mantenimiento (D02).  

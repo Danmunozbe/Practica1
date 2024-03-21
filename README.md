@@ -1,52 +1,19 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Danmunozbe/Practica1/tree/Pain2">
+    <img src="Recursos/UNAL.png" alt="Logo">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Laboratorio 1: Diseño de logotipo en tablero</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
+  <p align="center">Robótica
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Danmunozbe/Practica1/tree/Pain2"></a>
+    <br />Daniel Muñoz · Christian Vargas
   </p>
 </div>
 
@@ -63,15 +30,11 @@
       <a href="#Desarrollo">Desarrollo</a>
       <ul>
         <li><a href="#Diseño del logo">Diseño del logo</a></li>
-        <li><a href="#c%C3%B3digo-en-rapid">Installation</a></li>
+        <li><a href="#Diseño del logo">Diseño de la herramienta</a></li>
+        <li><a href="#c%C3%B3digo-en-rapid">Código en RAPID</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Resultados">Resultados</a></li>
   </ol>
 </details>
 
@@ -80,30 +43,53 @@
 <!-- Planteamiento del problema -->
 ## Planteamiento del problema
 
-Las redes sociales figuran en la actualidad como una de las principales formas de dar respuesta a las necesidades de los consumidores. Gigantes tecnológicos que dan cabida a todo tipo de marcas dentro de sus espacios publicitarios como Facebook, Instagram, o incluso Twitter. En el contexto de la asignatura de robótica, y en vista de lo anterior, se escogió a esta última empresa para el diseño de su logotipo en el entorno del laboratorio.
+Las redes sociales figuran en la actualidad como una de las principales formas de dar respuesta a las necesidades de los consumidores. Gigantes tecnológicos que dan cabida a todo tipo de marcas dentro de sus espacios publicitarios como Facebook, Instagram, o incluso Twitter son fundamentales en este ámbito. En el contexto de la asignatura de robótica, y considerando lo anterior, se escogió a esta última empresa para el diseño de su logotipo en el entorno del laboratorio.
 
-En los siguientes apartados se identifican los aspectos que fueron necesarios para lograr el diseño en simulación y en el robot real, de manera satisfactoria.
+En los siguientes apartados se identifican los aspectos que fueron necesarios para lograr el diseño en simulación y en el robot real de manera satisfactoria.
 
 <!-- GETTING STARTED -->
 ## Desarrollo
 
 ### Diseño del logo
 
-En primera instancia, según los parámetros definidos en la guía de laboratorio, se realizó en Inventor el característico diseño del logo de Twitter, conformado por la silueta de un monarca nuquinegro. A continuación se observa el diseño realizado.
+En primera instancia, según los parámetros definidos en la guía de laboratorio, se realizó en Inventor el característico diseño del logo de Twitter, conformado por la silueta de un monarca nuquinegro. A continuación se observa el diseño realizado, con las iniciales de los integrantes.
 
 ![Diseño CAD del logo junto a iniciales en el tablero](/Recursos/Workspacev3.png)
 
-### 
+### Diseño de la herramienta
+
+Se decidió realizar un diseño sencillo para la herramienta donde se ubicó el marcador, con un ángulo de 45° con respecto al eje del efector final. Las dimensiones de la herramienta se incluyen en la sección de Recursos, donde se encuentra un plano de la misma
+
+![Herramienta](/Recursos/Herramienta.png)
+
+La impresión de la herramienta, con el marcador posicionado se muestra a continuación.
+
+![Herramienta](/Recursos/herramientaReal.jpg)
 
 
+### Configuración de la estación virtual
+
+En la siguiente imagen se aprecia la ubicación de los elementos dispuestos en la estación. El equipo de trabajo decidió hacerlo sobre una superficie horizontal elevada con respecto a la base del robot.
 
 ![Vista de planta de los elementos dispuestos en la estación ](/Recursos/vistaPlanta.png)
 
+### Planteamiento de la solución
+
+Para hacer el código de la rutina se formuló el siguiente flujo de trabajo:
+
+![DFlujo](/Recursos/DFlujo.png)
+
+
 ### Código en RAPID
+
+A partir del modelo del tablero, se procedió a definir el Workobject para trazar la trayectoria correspondiente. Fundamentalmente, se hizo uso de los comandos MoveL, MoveJ y MoveC.
 
 `MoveL`: mueve el robot siguiendo una trayectoria lineal  
 `MoveJ`: mueve el robot mediante un movimiento de ejes  
 `MoveC`: mueve el robot en una trayectoria circular 
+
+De igual forma, se hizo uso de ciclos condicionales donde, dependiendo de la entrada digital habilitada, se realizaba el diseño del tablero (D01), o se retomaba la posición de mantenimiento (D02).  
+No está de más señalar, que en cuanto a los parámetros de z, se usó z0 para lograr una mayor precisión en el trazo final, que si bien definido como mínimo en z10 en la guía, el profesor indicó que podría realizarse de esta manera.
 
 ```rapid
 MODULE Module1
@@ -205,129 +191,21 @@ ENDMODULE
 
 ### Robot en funcionamiento - Robot Studio
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/8ak_B7RKMWM" title="PruebaTwitter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/FEa2diI2qgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
-
-
-<iframe width="840" height="473" src="https://www.youtube.com/embed/IRyxWnemi_k" title="RSLab1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="281"  src="https://www.youtube.com/embed/IRyxWnemi_k" title="RSLab1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Robot en funcionamiento - Entorno de laboratorio
 
+En el video de demostración del robot real, se puede observar que el movimiento del mecanismo es congruente con lo establecido en la estación virtual en Robot Studio, tanto en la trayectoria, como en el funcionamiento de las entradas digitales. 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<iframe width="500" height="281" src="https://www.youtube.com/embed/8ak_B7RKMWM" title="PruebaTwitter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+El diseño resultante de la prueba realizada fue el siguiente. Si bien se puede identificar que parte de la cola y el ala del pájaro no tienen un trazo sólido, esto se debió principalmente a que la punta del marcador se hundió dentro de sí mismo. Al no contar con otro, fue necesario usar este como definitivo.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Diseño CAD del logo junto a iniciales en el tablero](/Recursos/twitter.jpg)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+##  Conclusiones
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+1. La utilización de herramientas de simulación, como Robot Studio, permitió validar el diseño del logo y la programación del robot antes de llevarlo al entorno físico. Esto ayuda a minimizar errores y optimizar el tiempo de trabajo.
+2. La práctica integró conocimientos de diseño CAD, programación en RAPID y manipulación de herramientas robóticas. Esta integración demuestra la importancia de tener habilidades multidisciplinarias en el campo de la ingeniería mecatrónica.
+3. La comparación entre los resultados obtenidos en la simulación y en el entorno real del laboratorio validó la efectividad del diseño y la programación del robot. Esto subraya la importancia de realizar pruebas experimentales para corroborar la funcionalidad de los sistemas robóticos.
+4. La práctica permitió identificar áreas de mejora en el proceso de diseño de la herramienta y programación del robot, lo que abre oportunidades para optimizar y perfeccionar futuros proyectos similares.
